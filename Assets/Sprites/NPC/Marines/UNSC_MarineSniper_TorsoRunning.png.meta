@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: f43d0384e45e83c44b28517c88a0f650
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2563000368329114486
+    second: UNSC_MarineSniper_TorsoRunning_0
+  - first:
+      213: 26960166426575002
+    second: UNSC_MarineSniper_TorsoRunning_1
+  - first:
+      213: -9054939123856494602
+    second: UNSC_MarineSniper_TorsoRunning_2
+  - first:
+      213: -6587514105813456945
+    second: UNSC_MarineSniper_TorsoRunning_3
+  - first:
+      213: 8425838959345822635
+    second: UNSC_MarineSniper_TorsoRunning_4
+  - first:
+      213: 418137512169806126
+    second: UNSC_MarineSniper_TorsoRunning_5
+  - first:
+      213: 5079822601416134922
+    second: UNSC_MarineSniper_TorsoRunning_6
+  - first:
+      213: -3067116446307121388
+    second: UNSC_MarineSniper_TorsoRunning_7
+  - first:
+      213: 7280152454312719136
+    second: UNSC_MarineSniper_TorsoRunning_8
+  - first:
+      213: 8592864953982977516
+    second: UNSC_MarineSniper_TorsoRunning_9
+  - first:
+      213: -2593445924390107130
+    second: UNSC_MarineSniper_TorsoRunning_10
+  - first:
+      213: -5541200581662729747
+    second: UNSC_MarineSniper_TorsoRunning_11
+  - first:
+      213: -7114825409066037440
+    second: UNSC_MarineSniper_TorsoRunning_12
+  - first:
+      213: 5288084863490583071
+    second: UNSC_MarineSniper_TorsoRunning_13
+  - first:
+      213: -7128789442418729852
+    second: UNSC_MarineSniper_TorsoRunning_14
+  - first:
+      213: 839164455176896643
+    second: UNSC_MarineSniper_TorsoRunning_15
+  - first:
+      213: -1017616091400148507
+    second: UNSC_MarineSniper_TorsoRunning_16
+  - first:
+      213: -7996515572028655210
+    second: UNSC_MarineSniper_TorsoRunning_17
+  - first:
+      213: 2850189554502350916
+    second: UNSC_MarineSniper_TorsoRunning_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 59
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673c371714b919320800000000000000
+      internalID: 2563000368329114486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 60
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9001f6e028cf5000800000000000000
+      internalID: 26960166426575002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 58
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff2fbb87d4665280800000000000000
+      internalID: -9054939123856494602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 58
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc72d1aa2d27494a0800000000000000
+      internalID: -6587514105813456945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 63
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab647a34e79ee470800000000000000
+      internalID: 8425838959345822635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 58
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2995281ad58dc500800000000000000
+      internalID: 418137512169806126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 59
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01d86fedb72f7640800000000000000
+      internalID: 5079822601416134922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 61
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4170b15a7d96f65d0800000000000000
+      internalID: -3067116446307121388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 62
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237ff5d51c480560800000000000000
+      internalID: 7280152454312719136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 65
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce50f01162dff3770800000000000000
+      internalID: 8592864953982977516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 66
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080b842caa320cd0800000000000000
+      internalID: -2593445924390107130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 18
+        height: 44
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de91ec4fd63b913b0800000000000000
+      internalID: -5541200581662729747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 11
+        width: 17
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f02b58cff034d90800000000000000
+      internalID: -7114825409066037440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 11
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 0.53, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ae9767a2d036940800000000000000
+      internalID: 5288084863490583071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 12
+        width: 30
+        height: 42
+      alignment: 9
+      pivot: {x: 0.62, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c9316a5c3711d90800000000000000
+      internalID: -7128789442418729852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.62, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38004fa30af45ab00800000000000000
+      internalID: 839164455176896643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 12
+        width: 20
+        height: 44
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96f527e83b0e1f0800000000000000
+      internalID: -1017616091400148507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 12
+        width: 20
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6993a50647ba60190800000000000000
+      internalID: -7996515572028655210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_MarineSniper_TorsoRunning_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 11
+        width: 21
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44834a28c48ed8720800000000000000
+      internalID: 2850189554502350916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

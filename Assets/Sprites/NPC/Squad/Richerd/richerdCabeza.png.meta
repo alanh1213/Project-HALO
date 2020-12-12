@@ -1,0 +1,1627 @@
+fileFormatVersion: 2
+guid: 0ee2c6c1eacdee54da6cc147b41c9f4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2408156709782795966
+    second: richerdCabeza_0
+  - first:
+      213: -6679276394538376009
+    second: richerdCabeza_1
+  - first:
+      213: 8103738156984957170
+    second: richerdCabeza_2
+  - first:
+      213: -6213056484315101509
+    second: richerdCabeza_3
+  - first:
+      213: 5594452286463453461
+    second: richerdCabeza_4
+  - first:
+      213: 5283539517387352142
+    second: richerdCabeza_5
+  - first:
+      213: 5731126432986320883
+    second: richerdCabeza_6
+  - first:
+      213: -4907116783254199887
+    second: richerdCabeza_7
+  - first:
+      213: -657636161076787019
+    second: richerdCabeza_8
+  - first:
+      213: 6996745728121636334
+    second: richerdCabeza_9
+  - first:
+      213: 559241650646693315
+    second: richerdCabeza_10
+  - first:
+      213: 134822615350036560
+    second: richerdCabeza_11
+  - first:
+      213: 726208071214361269
+    second: richerdCabeza_12
+  - first:
+      213: -8255152638221151972
+    second: richerdCabeza_13
+  - first:
+      213: 1459455457972702717
+    second: richerdCabeza_14
+  - first:
+      213: 388760807264103232
+    second: richerdCabeza_15
+  - first:
+      213: 8209703703774282945
+    second: richerdCabeza_16
+  - first:
+      213: 7687991153364049771
+    second: richerdCabeza_17
+  - first:
+      213: 808436347131379491
+    second: richerdCabeza_18
+  - first:
+      213: 4017482419640151
+    second: richerdCabeza_19
+  - first:
+      213: 4025851415368944227
+    second: richerdCabeza_20
+  - first:
+      213: -2052858820401362036
+    second: richerdCabeza_21
+  - first:
+      213: -7837434111501725854
+    second: richerdCabeza_22
+  - first:
+      213: -4136696280051882006
+    second: richerdCabeza_23
+  - first:
+      213: 4347596054963665186
+    second: richerdCabeza_24
+  - first:
+      213: 8392539848615630858
+    second: richerdCabeza_25
+  - first:
+      213: 6158088404928021800
+    second: richerdCabeza_26
+  - first:
+      213: -7092538414855097789
+    second: richerdCabeza_27
+  - first:
+      213: 6402978474018004737
+    second: richerdCabeza_28
+  - first:
+      213: -8338642581339672763
+    second: richerdCabeza_29
+  - first:
+      213: -1880073485861852431
+    second: richerdCabeza_30
+  - first:
+      213: -8169748364187317638
+    second: richerdCabeza_31
+  - first:
+      213: -400769185373250110
+    second: richerdCabeza_32
+  - first:
+      213: -2316956918267868140
+    second: richerdCabeza_33
+  - first:
+      213: 6979200306573257185
+    second: richerdCabeza_34
+  - first:
+      213: 9152012945895369020
+    second: richerdCabeza_35
+  - first:
+      213: -3848691391606686006
+    second: richerdCabeza_36
+  - first:
+      213: 5626075117109885081
+    second: richerdCabeza_37
+  - first:
+      213: -1079685739927644994
+    second: richerdCabeza_38
+  - first:
+      213: -741723306878868123
+    second: richerdCabeza_39
+  - first:
+      213: -4402137380193503964
+    second: richerdCabeza_40
+  - first:
+      213: -5014727304904332432
+    second: richerdCabeza_41
+  - first:
+      213: -1157166805472059915
+    second: richerdCabeza_42
+  - first:
+      213: 4258712217507419092
+    second: richerdCabeza_43
+  - first:
+      213: -1862922702238082834
+    second: richerdCabeza_44
+  - first:
+      213: -2482739688366590984
+    second: richerdCabeza_45
+  - first:
+      213: -7831438604812500306
+    second: richerdCabeza_46
+  - first:
+      213: -4373583847287662459
+    second: richerdCabeza_47
+  - first:
+      213: 4408553124414086729
+    second: richerdCabeza_48
+  - first:
+      213: 437228672148775883
+    second: richerdCabeza_49
+  - first:
+      213: -4630563870152570656
+    second: richerdCabeza_50
+  - first:
+      213: -3670588388659300967
+    second: richerdCabeza_51
+  - first:
+      213: 9155038052985645051
+    second: richerdCabeza_52
+  - first:
+      213: 506557081948847982
+    second: richerdCabeza_53
+  - first:
+      213: 373734195251068224
+    second: richerdCabeza_54
+  - first:
+      213: -2176615045170017342
+    second: richerdCabeza_55
+  - first:
+      213: -5897476767739849495
+    second: richerdCabeza_56
+  - first:
+      213: -7556931833881923117
+    second: richerdCabeza_57
+  - first:
+      213: 6248970439877023642
+    second: richerdCabeza_58
+  - first:
+      213: 6934747406913839076
+    second: richerdCabeza_59
+  - first:
+      213: 324273735392899979
+    second: richerdCabeza_60
+  - first:
+      213: 2593062291307176572
+    second: richerdCabeza_61
+  - first:
+      213: 6589767812984436842
+    second: richerdCabeza_62
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: richerdCabeza_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 72
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6b312c4cd7b6120800000000000000
+      internalID: 2408156709782795966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 72
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b463eae1817e43a0800000000000000
+      internalID: -6679276394538376009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 72
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8fdd71be2467070800000000000000
+      internalID: 8103738156984957170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 72
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb606f2bb0ac6c9a0800000000000000
+      internalID: -6213056484315101509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 72
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519a68fb6bc73ad40800000000000000
+      internalID: 5594452286463453461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 72
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48ac9a9237e25940800000000000000
+      internalID: 5283539517387352142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 72
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff4001402d098f40800000000000000
+      internalID: 5731126432986320883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1a6ced84b66ebb0800000000000000
+      internalID: -4907116783254199887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 57
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b80193556b9fd6f0800000000000000
+      internalID: -657636161076787019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 57
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee50c6c5b2f691160800000000000000
+      internalID: 6996745728121636334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 57
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5366a7153d2c700800000000000000
+      internalID: 559241650646693315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 57
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058c0af447cfed100800000000000000
+      internalID: 134822615350036560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 45
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bae0c5a462041a00800000000000000
+      internalID: 726208071214361269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c111338c96ecf6d80800000000000000
+      internalID: -8255152638221151972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdc7f9a107014410800000000000000
+      internalID: 1459455457972702717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b229bf4e7256500800000000000000
+      internalID: 388760807264103232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4ccae850abee170800000000000000
+      internalID: 8209703703774282945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f1c94a83b31ba60800000000000000
+      internalID: 7687991153364049771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb74e0394283b00800000000000000
+      internalID: 808436347131379491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757938401e54e0000800000000000000
+      internalID: 4017482419640151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ac19b4882bed730800000000000000
+      internalID: 4025851415368944227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b03f387c7c283e0800000000000000
+      internalID: -2052858820401362036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f09693337db3390800000000000000
+      internalID: -7837434111501725854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 45
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e3d386a08796c0800000000000000
+      internalID: -4136696280051882006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229bff2d393c55c30800000000000000
+      internalID: 4347596054963665186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 45
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a089b08d68a487470800000000000000
+      internalID: 8392539848615630858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825cf2ff6cce57550800000000000000
+      internalID: 6158088404928021800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_27
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342ffbab3ed329d90800000000000000
+      internalID: -7092538414855097789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fd0586ff2fbd850800000000000000
+      internalID: 6402978474018004737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f6d4690c0374c80800000000000000
+      internalID: -8338642581339672763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae29b2023a8e5e0800000000000000
+      internalID: -1880073485861852431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a4940e5293f9e80800000000000000
+      internalID: -8169748364187317638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd97ec9c8e207af0800000000000000
+      internalID: -400769185373250110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c82c665f388dfd0800000000000000
+      internalID: -2316956918267868140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9a89193b91bd060800000000000000
+      internalID: 6979200306573257185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39aedbe84b720f70800000000000000
+      internalID: 9152012945895369020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acefd211293b69ac0800000000000000
+      internalID: -3848691391606686006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_37
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998bff2c285d31e40800000000000000
+      internalID: 5626075117109885081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4de8a3a8f2401f0800000000000000
+      internalID: -1079685739927644994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_39
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5656bdb059ed4b5f0800000000000000
+      internalID: -741723306878868123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f811506778e2c0800000000000000
+      internalID: -4402137380193503964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ba9b9d51c186ab0800000000000000
+      internalID: -5014727304904332432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_42
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 16
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdd6fddbeae0ffe0800000000000000
+      internalID: -1157166805472059915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 16
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3552db23cf91b30800000000000000
+      internalID: 4258712217507419092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee896192ca19526e0800000000000000
+      internalID: -1862922702238082834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3352558698b8dd0800000000000000
+      internalID: -2482739688366590984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 16
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2ced7e414215390800000000000000
+      internalID: -7831438604812500306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5885803c9a8ed43c0800000000000000
+      internalID: -4373583847287662459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_48
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 16
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed32a85b35e2d30800000000000000
+      internalID: 4408553124414086729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32b092929511600800000000000000
+      internalID: 437228672148775883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e84cc1a1beecbfb0800000000000000
+      internalID: -4630563870152570656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995f941ee437f0dc0800000000000000
+      internalID: -3670588388659300967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7a46d8a9a3d0f70800000000000000
+      internalID: 9155038052985645051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ff4007bf6a70700800000000000000
+      internalID: 506557081948847982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_54
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d3b5c3545cf2500800000000000000
+      internalID: 373734195251068224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_55
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbcedb062c1bc1e0800000000000000
+      internalID: -2176615045170017342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e45fbb3024f72ea0800000000000000
+      internalID: -5897476767739849495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d170a11982602790800000000000000
+      internalID: -7556931833881923117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_58
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9759c0b18dc8b650800000000000000
+      internalID: 6248970439877023642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef1924560c2d3060800000000000000
+      internalID: 6934747406913839076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_60
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8335188e3d008400800000000000000
+      internalID: 324273735392899979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7223d15a686cf320800000000000000
+      internalID: 2593062291307176572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: richerdCabeza_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a687d3d69ee837b50800000000000000
+      internalID: 6589767812984436842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

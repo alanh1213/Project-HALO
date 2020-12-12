@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 92c1400cc40385a448b5f808941af15e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7735994190678566473
+    second: SlipspacePortal_0
+  - first:
+      213: -8841174982051261358
+    second: SlipspacePortal_1
+  - first:
+      213: -3718163760985395668
+    second: SlipspacePortal_2
+  - first:
+      213: 3624364913678766687
+    second: SlipspacePortal_3
+  - first:
+      213: -7729790341374101201
+    second: SlipspacePortal_4
+  - first:
+      213: 4094360381283091812
+    second: SlipspacePortal_5
+  - first:
+      213: -4635668917387419490
+    second: SlipspacePortal_6
+  - first:
+      213: 8947328399134714313
+    second: SlipspacePortal_7
+  - first:
+      213: -9088674825595482458
+    second: SlipspacePortal_8
+  - first:
+      213: 2482725529256949048
+    second: SlipspacePortal_9
+  - first:
+      213: -8208712667034248672
+    second: SlipspacePortal_10
+  - first:
+      213: 8481281168384689391
+    second: SlipspacePortal_11
+  - first:
+      213: 7119884570647968574
+    second: SlipspacePortal_12
+  - first:
+      213: 3138127879436623813
+    second: SlipspacePortal_13
+  - first:
+      213: 4074310993901715108
+    second: SlipspacePortal_14
+  - first:
+      213: 3405531502810233929
+    second: SlipspacePortal_15
+  - first:
+      213: -6148437569765737753
+    second: SlipspacePortal_16
+  - first:
+      213: -8486792553635602694
+    second: SlipspacePortal_17
+  - first:
+      213: -8237745239054666086
+    second: SlipspacePortal_18
+  - first:
+      213: 5616665994636184053
+    second: SlipspacePortal_19
+  - first:
+      213: -5834852709619651218
+    second: SlipspacePortal_20
+  - first:
+      213: 2104011366174687360
+    second: SlipspacePortal_21
+  - first:
+      213: -5608499510337244976
+    second: SlipspacePortal_22
+  - first:
+      213: 5184591235347064557
+    second: SlipspacePortal_23
+  - first:
+      213: -3794492618828292913
+    second: SlipspacePortal_24
+  - first:
+      213: -584389339551983159
+    second: SlipspacePortal_25
+  - first:
+      213: -2333248061737891828
+    second: SlipspacePortal_26
+  - first:
+      213: -4418468214166254465
+    second: SlipspacePortal_27
+  - first:
+      213: -8012160450081356570
+    second: SlipspacePortal_28
+  - first:
+      213: -4570170926557660547
+    second: SlipspacePortal_29
+  - first:
+      213: 6526579393340858204
+    second: SlipspacePortal_30
+  - first:
+      213: -8282386593743369492
+    second: SlipspacePortal_31
+  - first:
+      213: 6118547464484041402
+    second: SlipspacePortal_32
+  - first:
+      213: 7432790063640522683
+    second: SlipspacePortal_33
+  - first:
+      213: -2038902757718446848
+    second: SlipspacePortal_34
+  - first:
+      213: 8289567703383501941
+    second: SlipspacePortal_35
+  - first:
+      213: 8208199335650840999
+    second: SlipspacePortal_36
+  - first:
+      213: -6315774073306800752
+    second: SlipspacePortal_37
+  - first:
+      213: 6203750915999642338
+    second: SlipspacePortal_38
+  - first:
+      213: -8186901345097337035
+    second: SlipspacePortal_39
+  - first:
+      213: 1326461377065383682
+    second: SlipspacePortal_40
+  - first:
+      213: -1419297800263145232
+    second: SlipspacePortal_41
+  - first:
+      213: 3390805952786859140
+    second: SlipspacePortal_42
+  - first:
+      213: 5652090797827956548
+    second: SlipspacePortal_43
+  - first:
+      213: -7286102181682660682
+    second: SlipspacePortal_44
+  - first:
+      213: 2059195676355990258
+    second: SlipspacePortal_45
+  - first:
+      213: 767189741984091822
+    second: SlipspacePortal_46
+  - first:
+      213: 1549790603145297126
+    second: SlipspacePortal_47
+  - first:
+      213: -7754811245853814517
+    second: SlipspacePortal_48
+  - first:
+      213: -394354515373165485
+    second: SlipspacePortal_49
+  - first:
+      213: 4863595124492517807
+    second: SlipspacePortal_50
+  - first:
+      213: -4325751781131431457
+    second: SlipspacePortal_51
+  - first:
+      213: -3101281048276772208
+    second: SlipspacePortal_52
+  - first:
+      213: -4502336430159557670
+    second: SlipspacePortal_53
+  - first:
+      213: 8752251417522519169
+    second: SlipspacePortal_54
+  - first:
+      213: 8239933346131684476
+    second: SlipspacePortal_55
+  - first:
+      213: 8148237318447698605
+    second: SlipspacePortal_56
+  - first:
+      213: -8810799817559230216
+    second: SlipspacePortal_57
+  - first:
+      213: 1487022637266237318
+    second: SlipspacePortal_58
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlipspacePortal_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 387
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946a1e7bab5cb5b60800000000000000
+      internalID: 7735994190678566473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlipspacePortal_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 388
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25493c54236dd4580800000000000000
+      internalID: -8841174982051261358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlipspacePortal_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 388
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e2cb152cd666cc0800000000000000
+      internalID: -3718163760985395668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlipspacePortal_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 389
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f525630bfa45c4230800000000000000
+      internalID: 3624364913678766687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlipspacePortal_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 385
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29b62283a44ab490800000000000000
+      internalID: -7729790341374101201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlipspacePortal_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 389
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465cfcce21712d830800000000000000
+      internalID: 4094360381283091812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlipspacePortal_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 395
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90adc23eabcaafb0800000000000000
+      internalID: -4635668917387419490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlipspacePortal_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 402
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9603726cb4b2c70800000000000000
+      internalID: 8947328399134714313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: 09e69666f637d3148af934fecf7cf0bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6801894096518861862
+    second: UNSC_Base_Marine_Weapons&Stuff_0
+  - first:
+      213: 1145994400051887548
+    second: UNSC_Base_Marine_Weapons&Stuff_1
+  - first:
+      213: 800410247393271497
+    second: UNSC_Base_Marine_Weapons&Stuff_2
+  - first:
+      213: -8386723584757764874
+    second: UNSC_Base_Marine_Weapons&Stuff_3
+  - first:
+      213: -3533597960227530496
+    second: UNSC_Base_Marine_Weapons&Stuff_4
+  - first:
+      213: -2548451213814697986
+    second: UNSC_Base_Marine_Weapons&Stuff_5
+  - first:
+      213: -8887577560466637683
+    second: UNSC_Base_Marine_Weapons&Stuff_6
+  - first:
+      213: 4921866712508689866
+    second: UNSC_Base_Marine_Weapons&Stuff_7
+  - first:
+      213: -2393408875854261041
+    second: UNSC_Base_Marine_Weapons&Stuff_8
+  - first:
+      213: -4559629789943187676
+    second: UNSC_Base_Marine_Weapons&Stuff_9
+  - first:
+      213: -1449332253482181715
+    second: UNSC_Base_Marine_Weapons&Stuff_10
+  - first:
+      213: -3700020525584841737
+    second: UNSC_Base_Marine_Weapons&Stuff_11
+  - first:
+      213: -7582347523626232328
+    second: UNSC_Base_Marine_Weapons&Stuff_12
+  - first:
+      213: 4144718338864932064
+    second: UNSC_Base_Marine_Weapons&Stuff_13
+  - first:
+      213: 7486095153839735709
+    second: UNSC_Base_Marine_Weapons&Stuff_14
+  - first:
+      213: 5744576431441690088
+    second: UNSC_Base_Marine_Weapons&Stuff_15
+  - first:
+      213: 4027644690702982949
+    second: UNSC_Base_Marine_Weapons&Stuff_16
+  - first:
+      213: -7137453645211659375
+    second: UNSC_Base_Marine_Weapons&Stuff_17
+  - first:
+      213: -1941055905137054570
+    second: UNSC_Base_Marine_Weapons&Stuff_18
+  - first:
+      213: -4399295829471429632
+    second: UNSC_Base_Marine_Weapons&Stuff_19
+  - first:
+      213: 150283949209894799
+    second: UNSC_Base_Marine_Weapons&Stuff_20
+  - first:
+      213: -5476624256429531324
+    second: UNSC_Base_Marine_Weapons&Stuff_21
+  - first:
+      213: 1136759223792541919
+    second: UNSC_Base_Marine_Weapons&Stuff_22
+  - first:
+      213: 9010734422280602819
+    second: UNSC_Base_Marine_Weapons&Stuff_23
+  - first:
+      213: 7363751068943963500
+    second: UNSC_Base_Marine_Weapons&Stuff_24
+  - first:
+      213: -1732414785996492045
+    second: UNSC_Base_Marine_Weapons&Stuff_25
+  - first:
+      213: 546909042154545441
+    second: UNSC_Base_Marine_Weapons&Stuff_26
+  - first:
+      213: -8605382625406368504
+    second: UNSC_Base_Marine_Weapons&Stuff_27
+  - first:
+      213: 5991488492662364982
+    second: UNSC_Base_Marine_Weapons&Stuff_28
+  - first:
+      213: -7871919358069900065
+    second: UNSC_Base_Marine_Weapons&Stuff_29
+  - first:
+      213: 5889484449788932225
+    second: UNSC_Base_Marine_Weapons&Stuff_30
+  - first:
+      213: -3895656919499790304
+    second: UNSC_Base_Marine_Weapons&Stuff_31
+  - first:
+      213: 4302067129639923124
+    second: UNSC_Base_Marine_Weapons&Stuff_32
+  - first:
+      213: 603029936378903641
+    second: UNSC_Base_Marine_Weapons&Stuff_33
+  - first:
+      213: 276091725012104915
+    second: UNSC_Base_Marine_Weapons&Stuff_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 34
+        width: 27
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbaa217b51da91a0800000000000000
+      internalID: -6801894096518861862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 140
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdfda9c5d367ef00800000000000000
+      internalID: 1145994400051887548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 140
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce557611e0ab1b00800000000000000
+      internalID: 800410247393271497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 134
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc6f1d955f5c9b80800000000000000
+      internalID: -8386723584757764874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 134
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009d791806326fec0800000000000000
+      internalID: -3533597960227530496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 134
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff69219f1512acd0800000000000000
+      internalID: -2548451213814697986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 122
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c37a21c4bf8a480800000000000000
+      internalID: -8887577560466637683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 84
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd66e6a2bbfd4440800000000000000
+      internalID: 4921866712508689866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 112
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc49078ee47e8ced0800000000000000
+      internalID: -2393408875854261041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 122
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427b52f2dd0f8b0c0800000000000000
+      internalID: -4559629789943187676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 122
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab9dad8effe2ebe0800000000000000
+      internalID: -1449332253482181715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 84
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f38cde7fe2e6acc0800000000000000
+      internalID: -3700020525584841737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 84
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f512baa91716c690800000000000000
+      internalID: -7582347523626232328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 84
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4671a9e5ff48930800000000000000
+      internalID: 4144718338864932064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 56
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93046f11e3f3e760800000000000000
+      internalID: 7486095153839735709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edb92d04d5d8bf40800000000000000
+      internalID: 5744576431441690088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 66
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fd6deb18115e730800000000000000
+      internalID: 4027644690702982949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193975cb9bba2fc90800000000000000
+      internalID: -7137453645211659375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 62
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ca12d30fbff05e0800000000000000
+      internalID: -1941055905137054570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 60
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c7f7660cf82f2c0800000000000000
+      internalID: -4399295829471429632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 47
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f3910a47ae51200800000000000000
+      internalID: 150283949209894799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fda33514f1ff3b0800000000000000
+      internalID: -5476624256429531324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 50
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0ad41cd7496cf00800000000000000
+      internalID: 1136759223792541919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 30
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c48b65573f8c0d70800000000000000
+      internalID: 9010734422280602819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 52
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65dec6159c413660800000000000000
+      internalID: 7363751068943963500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 36
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f27b0d4ee935f7e0800000000000000
+      internalID: -1732414785996492045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121221e40e2079700800000000000000
+      internalID: 546909042154545441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c550781a839880800000000000000
+      internalID: -8605382625406368504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 37
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b1bf03a0b062350800000000000000
+      internalID: 5991488492662364982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf8b11d0351c290800000000000000
+      internalID: -7871919358069900065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1803bdb37e6abb150800000000000000
+      internalID: 5889484449788932225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282c6afba8dfe9c0800000000000000
+      internalID: -3895656919499790304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd6216d24304bb30800000000000000
+      internalID: 4302067129639923124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c7aca38846e5800800000000000000
+      internalID: 603029936378903641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Marine_Weapons&Stuff_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d675ca06ffd4d300800000000000000
+      internalID: 276091725012104915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

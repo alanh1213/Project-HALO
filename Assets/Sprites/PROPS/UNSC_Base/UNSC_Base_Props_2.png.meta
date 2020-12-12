@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: b1eda58d3f5d1c046983c496962d3795
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4605024124783669711
+    second: UNSC_Base_Props_2_0
+  - first:
+      213: -8456783697795988815
+    second: UNSC_Base_Props_2_1
+  - first:
+      213: -2704986714342131188
+    second: UNSC_Base_Props_2_2
+  - first:
+      213: -2042437761774773019
+    second: UNSC_Base_Props_2_3
+  - first:
+      213: 7053096671107446405
+    second: UNSC_Base_Props_2_4
+  - first:
+      213: -8309160873025783196
+    second: UNSC_Base_Props_2_5
+  - first:
+      213: 6061096305067337036
+    second: UNSC_Base_Props_2_6
+  - first:
+      213: 2282993302948282687
+    second: UNSC_Base_Props_2_7
+  - first:
+      213: -1167041701476014116
+    second: UNSC_Base_Props_2_8
+  - first:
+      213: -949684367498224286
+    second: UNSC_Base_Props_2_9
+  - first:
+      213: -4484383011064442925
+    second: UNSC_Base_Props_2_10
+  - first:
+      213: 5388733641874540102
+    second: UNSC_Base_Props_2_11
+  - first:
+      213: 975257331089200102
+    second: UNSC_Base_Props_2_12
+  - first:
+      213: 7310630301306942870
+    second: UNSC_Base_Props_2_13
+  - first:
+      213: -4121601988245226883
+    second: UNSC_Base_Props_2_14
+  - first:
+      213: 9057898689326069682
+    second: UNSC_Base_Props_2_15
+  - first:
+      213: 2930277805653166451
+    second: UNSC_Base_Props_2_16
+  - first:
+      213: 6154056444443514906
+    second: UNSC_Base_Props_2_17
+  - first:
+      213: 3457282765646199261
+    second: UNSC_Base_Props_2_18
+  - first:
+      213: 8584351684963587000
+    second: UNSC_Base_Props_2_19
+  - first:
+      213: -7302317409670194845
+    second: UNSC_Base_Props_2_20
+  - first:
+      213: 1169786092225466655
+    second: UNSC_Base_Props_2_21
+  - first:
+      213: -401476286477835603
+    second: UNSC_Base_Props_2_22
+  - first:
+      213: -1348248981032843131
+    second: UNSC_Base_Props_2_23
+  - first:
+      213: -7471469337102590223
+    second: UNSC_Base_Props_2_24
+  - first:
+      213: 6082823433488061681
+    second: UNSC_Base_Props_2_25
+  - first:
+      213: -3927977504777881678
+    second: UNSC_Base_Props_2_26
+  - first:
+      213: 4565025238041915442
+    second: UNSC_Base_Props_2_27
+  - first:
+      213: 9180636804852551434
+    second: UNSC_Base_Props_2_28
+  - first:
+      213: 4433895032171459083
+    second: UNSC_Base_Props_2_29
+  - first:
+      213: -5078790040101643470
+    second: UNSC_Base_Props_2_30
+  - first:
+      213: -8681270458330059039
+    second: UNSC_Base_Props_2_31
+  - first:
+      213: 312257771997696670
+    second: UNSC_Base_Props_2_32
+  - first:
+      213: -1360970926351300031
+    second: UNSC_Base_Props_2_33
+  - first:
+      213: -7822659464147067780
+    second: UNSC_Base_Props_2_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 27
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e4a2cf4faa710c0800000000000000
+      internalID: -4605024124783669711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 158
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b24e86680873aa80800000000000000
+      internalID: -8456783697795988815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 158
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a7c793ae4f57ad0800000000000000
+      internalID: -2704986714342131188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 152
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec129d4dadc7a3e0800000000000000
+      internalID: -2042437761774773019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 152
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58679dfad02a1e160800000000000000
+      internalID: 7053096671107446405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 152
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a39b5b53eefac80800000000000000
+      internalID: -8309160873025783196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 158
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45a8f4f9f65d1450800000000000000
+      internalID: 6061096305067337036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 156
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3104de2052deaf10800000000000000
+      internalID: 2282993302948282687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 156
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7647971c5ddcfe0800000000000000
+      internalID: -1167041701476014116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 163
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dd682791b02d2f0800000000000000
+      internalID: -949684367498224286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 102
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df05b4296544c1c0800000000000000
+      internalID: -4484383011064442925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 130
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646012152b0a8ca40800000000000000
+      internalID: 5388733641874540102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 140
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3da20206fc88d00800000000000000
+      internalID: 975257331089200102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 140
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6957b919683947560800000000000000
+      internalID: 7310630301306942870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 140
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a791134d02dc6c0800000000000000
+      internalID: -4121601988245226883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 122
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7b1ccfdde14bd70800000000000000
+      internalID: 9057898689326069682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 79
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3790b2393207aa820800000000000000
+      internalID: 2930277805653166451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 102
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1852ca0bb9976550800000000000000
+      internalID: 6154056444443514906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 102
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9fb6e9b5cbaff20800000000000000
+      internalID: 3457282765646199261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 102
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3d749206eb12770800000000000000
+      internalID: 8584351684963587000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 79
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36915775105f8aa90800000000000000
+      internalID: -7302317409670194845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 79
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119a4ac04aeb3010800000000000000
+      internalID: 1169786092225466655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 67
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2eebec17bad6af0800000000000000
+      internalID: -401476286477835603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 13
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58841c0f1be0a4de0800000000000000
+      internalID: -1348248981032843131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 43
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fed6c33932005890800000000000000
+      internalID: -7471469337102590223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 57
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f45a704fa78a6450800000000000000
+      internalID: 6082823433488061681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 17
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b73dfd45450d79c0800000000000000
+      internalID: -3927977504777881678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307e28744a3a5f30800000000000000
+      internalID: 4565025238041915442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f0d1d688c286f70800000000000000
+      internalID: 9180636804852551434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02f2fb3a0c588d30800000000000000
+      internalID: 4433895032171459083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 13
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b13fafd538489b0800000000000000
+      internalID: -5078790040101643470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 10
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eee424738ee58780800000000000000
+      internalID: -8681270458330059039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 29
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92174a0acc555400800000000000000
+      internalID: 312257771997696670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 17
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a4239372cdc1de0800000000000000
+      internalID: -1360970926351300031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_2_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c9aa0e9a4507390800000000000000
+      internalID: -7822659464147067780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

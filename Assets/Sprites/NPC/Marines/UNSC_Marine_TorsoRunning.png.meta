@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 625417036bfacc042a1f62d5c0e7eb02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5211726854846530495
+    second: UNSC_Marine_TorsoRunning_0
+  - first:
+      213: -7967871991152734784
+    second: UNSC_Marine_TorsoRunning_1
+  - first:
+      213: 1260857663297045556
+    second: UNSC_Marine_TorsoRunning_2
+  - first:
+      213: 5446355853155278046
+    second: UNSC_Marine_TorsoRunning_3
+  - first:
+      213: 51921588072670073
+    second: UNSC_Marine_TorsoRunning_4
+  - first:
+      213: -7317942040041027705
+    second: UNSC_Marine_TorsoRunning_5
+  - first:
+      213: -3752596869283627801
+    second: UNSC_Marine_TorsoRunning_6
+  - first:
+      213: -1945386895277815616
+    second: UNSC_Marine_TorsoRunning_7
+  - first:
+      213: 198645680917669243
+    second: UNSC_Marine_TorsoRunning_8
+  - first:
+      213: 5071062703029969206
+    second: UNSC_Marine_TorsoRunning_9
+  - first:
+      213: 3964182099101758305
+    second: UNSC_Marine_TorsoRunning_10
+  - first:
+      213: 6064984086649689062
+    second: UNSC_Marine_TorsoRunning_11
+  - first:
+      213: -7262510260356063813
+    second: UNSC_Marine_TorsoRunning_12
+  - first:
+      213: -1365161236733512515
+    second: UNSC_Marine_TorsoRunning_13
+  - first:
+      213: 5887267783600389400
+    second: UNSC_Marine_TorsoRunning_14
+  - first:
+      213: 991382584835259612
+    second: UNSC_Marine_TorsoRunning_15
+  - first:
+      213: 2199149679616031455
+    second: UNSC_Marine_TorsoRunning_16
+  - first:
+      213: -6340356073398835297
+    second: UNSC_Marine_TorsoRunning_17
+  - first:
+      213: 3625605121868439461
+    second: UNSC_Marine_TorsoRunning_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 59
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3cd7926f5c35840800000000000000
+      internalID: 5211726854846530495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 60
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd8e8fb3ae6c6190800000000000000
+      internalID: -7967871991152734784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 58
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434462d4d577f7110800000000000000
+      internalID: 1260857663297045556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 58
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc90bbdac7559b40800000000000000
+      internalID: 5446355853155278046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 63
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973ee35c86678b000800000000000000
+      internalID: 51921588072670073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 58
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78705789c72717a90800000000000000
+      internalID: -7317942040041027705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 59
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec3b1d87091cebc0800000000000000
+      internalID: -3752596869283627801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 61
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c804440de89005e0800000000000000
+      internalID: -1945386895277815616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 62
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75634fb13bb1c200800000000000000
+      internalID: 198645680917669243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 65
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63165d729a8006640800000000000000
+      internalID: 5071062703029969206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 66
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1633ce1bd9a930730800000000000000
+      internalID: 3964182099101758305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 18
+        height: 43
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3d625a4e62b2450800000000000000
+      internalID: 6064984086649689062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 11
+        width: 16
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdd8d98561663b90800000000000000
+      internalID: -7262510260356063813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 11
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.53, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4bd5f8619fd0de0800000000000000
+      internalID: -1365161236733512515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 12
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.62, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d3a1b6bd6c3b150800000000000000
+      internalID: 5887267783600389400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.62, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc3d95553912cd00800000000000000
+      internalID: 991382584835259612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 12
+        width: 20
+        height: 43
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda7d656bf2f48e10800000000000000
+      internalID: 2199149679616031455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 12
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97629f6eb78208a0800000000000000
+      internalID: -6340356073398835297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Marine_TorsoRunning_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 11
+        width: 21
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af1ec826acb05230800000000000000
+      internalID: 3625605121868439461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1243 @@
+fileFormatVersion: 2
+guid: 868884f85ec921343b47ff0a346ee80a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3314710882936455725
+    second: World_City_RandomCityProps_0
+  - first:
+      213: -8979660104967533112
+    second: World_City_RandomCityProps_1
+  - first:
+      213: 3038264295611952809
+    second: World_City_RandomCityProps_2
+  - first:
+      213: 404554443547079933
+    second: World_City_RandomCityProps_3
+  - first:
+      213: -4671746202407487256
+    second: World_City_RandomCityProps_4
+  - first:
+      213: 2415151450930377638
+    second: World_City_RandomCityProps_5
+  - first:
+      213: 5037702581609567832
+    second: World_City_RandomCityProps_6
+  - first:
+      213: 5002515411297041624
+    second: World_City_RandomCityProps_7
+  - first:
+      213: -8725740168797210901
+    second: World_City_RandomCityProps_8
+  - first:
+      213: -8248372754945021877
+    second: World_City_RandomCityProps_9
+  - first:
+      213: 4228017704580989721
+    second: World_City_RandomCityProps_10
+  - first:
+      213: -3182563325015145138
+    second: World_City_RandomCityProps_11
+  - first:
+      213: -3495313465698523055
+    second: World_City_RandomCityProps_12
+  - first:
+      213: -4754109701140722380
+    second: World_City_RandomCityProps_13
+  - first:
+      213: -5033272117846181515
+    second: World_City_RandomCityProps_14
+  - first:
+      213: -7204417330287488150
+    second: World_City_RandomCityProps_15
+  - first:
+      213: 1731813251733887315
+    second: World_City_RandomCityProps_16
+  - first:
+      213: 3718765110850305063
+    second: World_City_RandomCityProps_17
+  - first:
+      213: -97451357641033248
+    second: World_City_RandomCityProps_18
+  - first:
+      213: 3658076091061809096
+    second: World_City_RandomCityProps_19
+  - first:
+      213: -6438132594008997913
+    second: World_City_RandomCityProps_20
+  - first:
+      213: -8180478973974479208
+    second: World_City_RandomCityProps_21
+  - first:
+      213: 8246351132979932562
+    second: World_City_RandomCityProps_22
+  - first:
+      213: 2729120704614064417
+    second: World_City_RandomCityProps_23
+  - first:
+      213: 7381895968311679199
+    second: World_City_RandomCityProps_24
+  - first:
+      213: -6118586253320780757
+    second: World_City_RandomCityProps_25
+  - first:
+      213: -7506866828989462589
+    second: World_City_RandomCityProps_26
+  - first:
+      213: -1650630345387215414
+    second: World_City_RandomCityProps_27
+  - first:
+      213: -5587123049483219328
+    second: World_City_RandomCityProps_28
+  - first:
+      213: 7825309325780281136
+    second: World_City_RandomCityProps_29
+  - first:
+      213: -7894357673306122608
+    second: World_City_RandomCityProps_30
+  - first:
+      213: 5735062661144183758
+    second: World_City_RandomCityProps_31
+  - first:
+      213: 7375575108590565109
+    second: World_City_RandomCityProps_32
+  - first:
+      213: -425691502515116755
+    second: World_City_RandomCityProps_33
+  - first:
+      213: -7265428686561598209
+    second: World_City_RandomCityProps_34
+  - first:
+      213: 7733745145941970419
+    second: World_City_RandomCityProps_35
+  - first:
+      213: -2568265496356570914
+    second: World_City_RandomCityProps_36
+  - first:
+      213: 2162123172606808691
+    second: World_City_RandomCityProps_37
+  - first:
+      213: -4815543480591883400
+    second: World_City_RandomCityProps_38
+  - first:
+      213: -2790745830885315063
+    second: World_City_RandomCityProps_39
+  - first:
+      213: -1554160554156829002
+    second: World_City_RandomCityProps_40
+  - first:
+      213: -2325097076432296315
+    second: World_City_RandomCityProps_41
+  - first:
+      213: 3121415021275129473
+    second: World_City_RandomCityProps_42
+  - first:
+      213: 6672962969654807777
+    second: World_City_RandomCityProps_43
+  - first:
+      213: -8001431634513719679
+    second: World_City_RandomCityProps_44
+  - first:
+      213: -7964873234352544279
+    second: World_City_RandomCityProps_45
+  - first:
+      213: 6382909935376235447
+    second: World_City_RandomCityProps_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 276
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228c866cf7300e20800000000000000
+      internalID: 3314710882936455725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 276
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdc9a7f5b6d16380800000000000000
+      internalID: -8979660104967533112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 276
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aee3b987451a2a20800000000000000
+      internalID: 3038264295611952809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 263
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4fdeb7f144d9500800000000000000
+      internalID: 404554443547079933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 263
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b8b4b49f9a2fb0800000000000000
+      internalID: -4671746202407487256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 268
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a37977d277548120800000000000000
+      internalID: 2415151450930377638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 289
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85618ec9ec389e540800000000000000
+      internalID: 5037702581609567832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 270
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcf6c913418c6540800000000000000
+      internalID: 5002515411297041624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 279
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be63c742c81f7e680800000000000000
+      internalID: -8725740168797210901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 255
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48ed7e5ea4e78d80800000000000000
+      internalID: -8248372754945021877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 269
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913cc9983bfecaa30800000000000000
+      internalID: 4228017704580989721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 256
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e454941948345d3d0800000000000000
+      internalID: -3182563325015145138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 257
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15866620ce62e7fc0800000000000000
+      internalID: -3495313465698523055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 242
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dc4484a62060eb0800000000000000
+      internalID: -4754109701140722380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 237
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57976ed1da9362ab0800000000000000
+      internalID: -5033272117846181515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 243
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63db86db94c40c90800000000000000
+      internalID: -7204417330287488150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 215
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35999e61af2a80810800000000000000
+      internalID: 1731813251733887315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 215
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c395b5a25bb9330800000000000000
+      internalID: 3718765110850305063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 218
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e93deca188c5aef0800000000000000
+      internalID: -97451357641033248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 222
+        width: 96
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfa611d2d814c230800000000000000
+      internalID: 3658076091061809096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 159
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efba35348827a6a0800000000000000
+      internalID: -6438132594008997913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 158
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ef2b717b9197e80800000000000000
+      internalID: -8180478973974479208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_22
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 173
+        width: 79
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29da8661aace07270800000000000000
+      internalID: 8246351132979932562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 163
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1216fa342d8cfd520800000000000000
+      internalID: 2729120704614064417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 124
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd81b10b543c17660800000000000000
+      internalID: 7381895968311679199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 124
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b240a33683a661ba0800000000000000
+      internalID: -6118586253320780757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 124
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c78be1646042d790800000000000000
+      internalID: -7506866828989462589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 124
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f6bf3278c719e0800000000000000
+      internalID: -1650630345387215414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 124
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec727303d8672b0800000000000000
+      internalID: -5587123049483219328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 124
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0376fac1f55199c60800000000000000
+      internalID: 7825309325780281136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 125
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09695b0b58b917290800000000000000
+      internalID: -7894357673306122608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 128
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30b1aca19079f40800000000000000
+      internalID: 5735062661144183758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_32
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 121
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6f0c9db7e4b5660800000000000000
+      internalID: 7375575108590565109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d252fa875d3a71af0800000000000000
+      internalID: -425691502515116755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 76
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4209c7a130c2b90800000000000000
+      internalID: -7265428686561598209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc54f2c38c35b60800000000000000
+      internalID: 7733745145941970419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed836c86320bb5cd0800000000000000
+      internalID: -2568265496356570914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3729edfe197610e10800000000000000
+      internalID: 2162123172606808691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_38
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 101
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8736fded7b0cb2db0800000000000000
+      internalID: -4815543480591883400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 99
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eadabe3774549d0800000000000000
+      internalID: -2790745830885315063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 159
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6de85d5338e6ae0800000000000000
+      internalID: -1554160554156829002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_41
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58624f227889bbfd0800000000000000
+      internalID: -2325097076432296315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1862ca38c6e715b20800000000000000
+      internalID: 3121415021275129473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_43
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 9
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec4c9d47702b9c50800000000000000
+      internalID: 6672962969654807777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e8c32625435f090800000000000000
+      internalID: -8001431634513719679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_45
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 7
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e566693ef5177190800000000000000
+      internalID: -7964873234352544279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_City_RandomCityProps_46
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 8
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb7963a4c6a49850800000000000000
+      internalID: 6382909935376235447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

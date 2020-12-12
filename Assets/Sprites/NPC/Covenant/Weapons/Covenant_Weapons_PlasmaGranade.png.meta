@@ -1,0 +1,1009 @@
+fileFormatVersion: 2
+guid: c67fa60627ce67e46835fd701f59748e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9037396955636938533
+    second: Covenant_Weapons_PlasmaGranade_0
+  - first:
+      213: 8742983316593398056
+    second: Covenant_Weapons_PlasmaGranade_1
+  - first:
+      213: 2797227734444011944
+    second: Covenant_Weapons_PlasmaGranade_2
+  - first:
+      213: -1690412428854704384
+    second: Covenant_Weapons_PlasmaGranade_3
+  - first:
+      213: -8098627559168710818
+    second: Covenant_Weapons_PlasmaGranade_4
+  - first:
+      213: 3699880469546972165
+    second: Covenant_Weapons_PlasmaGranade_5
+  - first:
+      213: 9022181869738013717
+    second: Covenant_Weapons_PlasmaGranade_6
+  - first:
+      213: 2882638029384531671
+    second: Covenant_Weapons_PlasmaGranade_7
+  - first:
+      213: -6267978871502324747
+    second: Covenant_Weapons_PlasmaGranade_8
+  - first:
+      213: -5439242606878859548
+    second: Covenant_Weapons_PlasmaGranade_9
+  - first:
+      213: -8609677893205559850
+    second: Covenant_Weapons_PlasmaGranade_10
+  - first:
+      213: 9153084342927421476
+    second: Covenant_Weapons_PlasmaGranade_11
+  - first:
+      213: -5419087429909976472
+    second: Covenant_Weapons_PlasmaGranade_12
+  - first:
+      213: 8612986262799251770
+    second: Covenant_Weapons_PlasmaGranade_13
+  - first:
+      213: -2421325397070510127
+    second: Covenant_Weapons_PlasmaGranade_14
+  - first:
+      213: 5040476914700266569
+    second: Covenant_Weapons_PlasmaGranade_15
+  - first:
+      213: 2651403439432126424
+    second: Covenant_Weapons_PlasmaGranade_16
+  - first:
+      213: -4744882485744372836
+    second: Covenant_Weapons_PlasmaGranade_17
+  - first:
+      213: -5256038751108320846
+    second: Covenant_Weapons_PlasmaGranade_18
+  - first:
+      213: 423949073238475754
+    second: Covenant_Weapons_PlasmaGranade_19
+  - first:
+      213: -4479792303018110195
+    second: Covenant_Weapons_PlasmaGranade_20
+  - first:
+      213: -7385132034411537006
+    second: Covenant_Weapons_PlasmaGranade_21
+  - first:
+      213: -2483741401065558388
+    second: Covenant_Weapons_PlasmaGranade_22
+  - first:
+      213: -6346813576965793034
+    second: Covenant_Weapons_PlasmaGranade_23
+  - first:
+      213: -8695218595694886139
+    second: Covenant_Weapons_PlasmaGranade_24
+  - first:
+      213: -6297442844526100934
+    second: Covenant_Weapons_PlasmaGranade_25
+  - first:
+      213: 97071612216871235
+    second: Covenant_Weapons_PlasmaGranade_26
+  - first:
+      213: 1331483965697652233
+    second: Covenant_Weapons_PlasmaGranade_27
+  - first:
+      213: 3355462854234148469
+    second: Covenant_Weapons_PlasmaGranade_28
+  - first:
+      213: 2050943875270117032
+    second: Covenant_Weapons_PlasmaGranade_29
+  - first:
+      213: -214024501032043811
+    second: Covenant_Weapons_PlasmaGranade_30
+  - first:
+      213: -4384976272505679203
+    second: Covenant_Weapons_PlasmaGranade_31
+  - first:
+      213: 6049069040224981464
+    second: Covenant_Weapons_PlasmaGranade_32
+  - first:
+      213: 7270365558420599976
+    second: Covenant_Weapons_PlasmaGranade_33
+  - first:
+      213: -6346756003571252671
+    second: Covenant_Weapons_PlasmaGranade_34
+  - first:
+      213: 8364246232242696278
+    second: Covenant_Weapons_PlasmaGranade_35
+  - first:
+      213: -631346500747675113
+    second: Covenant_Weapons_PlasmaGranade_36
+  - first:
+      213: 1159025060733377044
+    second: Covenant_Weapons_PlasmaGranade_37
+  - first:
+      213: 1409251505636615474
+    second: Covenant_Weapons_PlasmaGranade_38
+  - first:
+      213: 3466602272679521297
+    second: Covenant_Weapons_PlasmaGranade_39
+  - first:
+      213: -8025708928432043880
+    second: Covenant_Weapons_PlasmaGranade_40
+  - first:
+      213: -8415008795303802604
+    second: Covenant_Weapons_PlasmaGranade_41
+  - first:
+      213: 56688025558451620
+    second: Covenant_Weapons_PlasmaGranade_42
+  - first:
+      213: -1488778813484532267
+    second: Covenant_Weapons_PlasmaGranade_43
+  - first:
+      213: 578597087857458677
+    second: Covenant_Weapons_PlasmaGranade_44
+  - first:
+      213: 7449360297371389438
+    second: Covenant_Weapons_PlasmaGranade_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 122
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527bfe226a84b6d70800000000000000
+      internalID: 9037396955636938533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 121
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82157be0101555970800000000000000
+      internalID: 8742983316593398056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f76bddcfb1d620800000000000000
+      internalID: 2797227734444011944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007c5362ad27a88e0800000000000000
+      internalID: -1690412428854704384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e576f8fa425eb9f80800000000000000
+      internalID: -8098627559168710818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b0ca2fad985330800000000000000
+      internalID: 3699880469546972165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51434b4eb9a353d70800000000000000
+      internalID: 9022181869738013717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 109
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de3f7dc300310820800000000000000
+      internalID: 2882638029384531671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 108
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb3370fc6aa309a0800000000000000
+      internalID: -6267978871502324747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed0d9daade384b0800000000000000
+      internalID: -5439242606878859548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5f2f87297448880800000000000000
+      internalID: -8609677893205559850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f06bf6b9460f70800000000000000
+      internalID: 9153084342927421476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a6e6da1b88bc4b0800000000000000
+      internalID: -5419087429909976472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39f7795f59778770800000000000000
+      internalID: 8612986262799251770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d70bfd4169b56ed0800000000000000
+      internalID: -2421325397070510127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c244f5c0f53f540800000000000000
+      internalID: 5040476914700266569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 95
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfc993616dabc420800000000000000
+      internalID: 2651403439432126424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 83
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93fb38c48ac62eb0800000000000000
+      internalID: -4744882485744372836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 83
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b130828a9cce07b0800000000000000
+      internalID: -5256038751108320846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 83
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae34c399f6b22e500800000000000000
+      internalID: 423949073238475754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 60
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d039317a2a494d1c0800000000000000
+      internalID: -4479792303018110195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 82
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dda85fa8db28990800000000000000
+      internalID: -7385132034411537006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 60
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e6e8bea5af78dd0800000000000000
+      internalID: -2483741401065558388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 83
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad359bda69be7a0800000000000000
+      internalID: -6346813576965793034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5034c37a1c0645780800000000000000
+      internalID: -8695218595694886139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 60
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e32b2291dfa98a0800000000000000
+      internalID: -6297442844526100934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 61
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34906f3fd1ed85100800000000000000
+      internalID: 97071612216871235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 61
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906798fbc916a7210800000000000000
+      internalID: 1331483965697652233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 61
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e05ab10bff09e20800000000000000
+      internalID: 3355462854234148469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 14
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60db3969a667c10800000000000000
+      internalID: 2050943875270117032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 7
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda31caa9d1a70df0800000000000000
+      internalID: -214024501032043811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9258c0105f6523c0800000000000000
+      internalID: -4384976272505679203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650b9bee1a5c31470800000000000000
+      internalID: 8364246232242696278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 9
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d15c642e3c92f350800000000000000
+      internalID: 6049069040224981464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_33
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 8
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4f4e094f685e460800000000000000
+      internalID: 7270365558420599976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covenant_Weapons_PlasmaGranade_34
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 8
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142ce039a0bcbe7a0800000000000000
+      internalID: -6346756003571252671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

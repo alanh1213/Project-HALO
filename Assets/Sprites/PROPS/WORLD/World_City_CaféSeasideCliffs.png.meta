@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 201fa22137704e24781dd8bf98d4738d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3041290401937029820
+    second: "World_City_Caf\xE9SeasideCliffs_0"
+  - first:
+      213: -4281210645800428828
+    second: "World_City_Caf\xE9SeasideCliffs_1"
+  - first:
+      213: -3264411307626609783
+    second: "World_City_Caf\xE9SeasideCliffs_2"
+  - first:
+      213: 8921241976082474976
+    second: "World_City_Caf\xE9SeasideCliffs_3"
+  - first:
+      213: 6191823819383689030
+    second: "World_City_Caf\xE9SeasideCliffs_4"
+  - first:
+      213: -5605035317233726645
+    second: "World_City_Caf\xE9SeasideCliffs_5"
+  - first:
+      213: 4399523009536443748
+    second: "World_City_Caf\xE9SeasideCliffs_6"
+  - first:
+      213: 288837058319351522
+    second: "World_City_Caf\xE9SeasideCliffs_7"
+  - first:
+      213: -1183961520878206131
+    second: "World_City_Caf\xE9SeasideCliffs_8"
+  - first:
+      213: -3075506426371436502
+    second: "World_City_Caf\xE9SeasideCliffs_9"
+  - first:
+      213: -6198515353194237931
+    second: "World_City_Caf\xE9SeasideCliffs_10"
+  - first:
+      213: -3217295446528993738
+    second: "World_City_Caf\xE9SeasideCliffs_11"
+  - first:
+      213: -3362622196688777063
+    second: "World_City_Caf\xE9SeasideCliffs_12"
+  - first:
+      213: 2262857823837353583
+    second: "World_City_Caf\xE9SeasideCliffs_13"
+  - first:
+      213: -8975058916816257650
+    second: "World_City_Caf\xE9SeasideCliffs_14"
+  - first:
+      213: -7144543563528680668
+    second: "World_City_Caf\xE9SeasideCliffs_15"
+  - first:
+      213: -3570590603287885608
+    second: "World_City_Caf\xE9SeasideCliffs_16"
+  - first:
+      213: -5441796176557683457
+    second: "World_City_Caf\xE9SeasideCliffs_17"
+  - first:
+      213: 9153578536356975746
+    second: "World_City_Caf\xE9SeasideCliffs_18"
+  - first:
+      213: 7864947701964510191
+    second: "World_City_Caf\xE9SeasideCliffs_19"
+  - first:
+      213: -6954933581892035260
+    second: "World_City_Caf\xE9SeasideCliffs_20"
+  - first:
+      213: -6863812607293687199
+    second: "World_City_Caf\xE9SeasideCliffs_21"
+  - first:
+      213: 9189643576460534352
+    second: "World_City_Caf\xE9SeasideCliffs_22"
+  - first:
+      213: 5733297156430645263
+    second: "World_City_Caf\xE9SeasideCliffs_23"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_0"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 419
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4450dbd2e7a2bc5d0800000000000000
+      internalID: -3041290401937029820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_1"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 419
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ead178b9951694c0800000000000000
+      internalID: -4281210645800428828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_2"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 419
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983c528163b72b2d0800000000000000
+      internalID: -3264411307626609783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_3"
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 431
+        width: 111
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e723bb7f4e9ecb70800000000000000
+      internalID: 8921241976082474976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_4"
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 423
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fca2245f6cde550800000000000000
+      internalID: 6191823819383689030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_5"
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 423
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bc3c2631ae632b0800000000000000
+      internalID: -5605035317233726645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_6"
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 423
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465c3941ede3e0d30800000000000000
+      internalID: 4399523009536443748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_7"
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 354
+        width: 107
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef71336c7220400800000000000000
+      internalID: 288837058319351522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_8"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 351
+        width: 111
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43c2580549b19fe0800000000000000
+      internalID: -1183961520878206131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_9"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 351
+        width: 111
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2013bf233b9155d0800000000000000
+      internalID: -3075506426371436502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_10"
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 363
+        width: 111
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5107d0e90237af9a0800000000000000
+      internalID: -6198515353194237931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_11"
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 347
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636582c56ded953d0800000000000000
+      internalID: -3217295446528993738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_12"
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 347
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99095849de09551d0800000000000000
+      internalID: -3362622196688777063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_13"
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 347
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66f90f9339476f10800000000000000
+      internalID: 2262857823837353583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_14"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 971
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df6f0977f227380800000000000000
+      internalID: -8975058916816257650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_15"
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 199
+        width: 5
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc19d7b7b79dc90800000000000000
+      internalID: -7144543563528680668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_16"
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 103
+        width: 5
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d88dac93c6b27ec0800000000000000
+      internalID: -3570590603287885608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_17"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 167
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc4334953bda74b0800000000000000
+      internalID: -5441796176557683457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_18"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 56
+        width: 307
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284923b5e2b080f70800000000000000
+      internalID: 9153578536356975746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_19"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 69
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe39e90c348e52d60800000000000000
+      internalID: 7864947701964510191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_20"
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 27
+        width: 106
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd3ee81cc1b7f90800000000000000
+      internalID: -6954933581892035260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_21"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 3
+        width: 178
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a7969bcc6deb0a0800000000000000
+      internalID: -6863812607293687199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_22"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 9
+        width: 307
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052616bd42c288f70800000000000000
+      internalID: 9189643576460534352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "World_City_Caf\xE9SeasideCliffs_23"
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 38
+        width: 100
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f084ec03363c09f40800000000000000
+      internalID: 5733297156430645263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

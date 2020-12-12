@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6400292448876777169
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2831775078939743585}
+  m_Layer: 8
+  m_Name: Sniper_Squadron
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2831775078939743585
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6400292448876777169}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -140.51, y: -14.54, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6346423114116775198}
+  - {fileID: 7006128890370758787}
+  - {fileID: 1661448494025791532}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &868945030285425219
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2831775078939743585}
+    m_Modifications:
+    - target: {fileID: 1946041559774601830, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_Name
+      value: TaskMarineSniper2_NPC (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.9719391
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.8657885
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bc781667d6a15c64f8e6823e638e4b40, type: 3}
+--- !u!4 &1661448494025791532 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+    type: 3}
+  m_PrefabInstance: {fileID: 868945030285425219}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2186551262620848587
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2831775078939743585}
+    m_Modifications:
+    - target: {fileID: 9179169276225128769, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_Name
+      value: TaskMarineSniper1_NPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.6472778
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.317193
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7633336393c8f714e84d5a8b03ae43ce, type: 3}
+--- !u!4 &7006128890370758787 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9179169276225128776, guid: 7633336393c8f714e84d5a8b03ae43ce,
+    type: 3}
+  m_PrefabInstance: {fileID: 2186551262620848587}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4833132395458797425
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2831775078939743585}
+    m_Modifications:
+    - target: {fileID: 1946041559774601830, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_Name
+      value: TaskMarineSniper2_NPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.4972229
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bc781667d6a15c64f8e6823e638e4b40, type: 3}
+--- !u!4 &6346423114116775198 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1946041559774601839, guid: bc781667d6a15c64f8e6823e638e4b40,
+    type: 3}
+  m_PrefabInstance: {fileID: 4833132395458797425}
+  m_PrefabAsset: {fileID: 0}

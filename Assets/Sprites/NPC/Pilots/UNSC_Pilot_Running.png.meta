@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: 6274bf02ffe089b41b5e2a102dd2cfc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4728060169800027666
+    second: UNSC_Pilot_Running_0
+  - first:
+      213: -3537330873678477490
+    second: UNSC_Pilot_Running_1
+  - first:
+      213: 6543253281436784476
+    second: UNSC_Pilot_Running_2
+  - first:
+      213: -8181253095433572501
+    second: UNSC_Pilot_Running_3
+  - first:
+      213: 8535910530468334492
+    second: UNSC_Pilot_Running_4
+  - first:
+      213: -3428123224047030246
+    second: UNSC_Pilot_Running_5
+  - first:
+      213: 1934010408172917726
+    second: UNSC_Pilot_Running_6
+  - first:
+      213: -2460393941965794759
+    second: UNSC_Pilot_Running_7
+  - first:
+      213: 5044454522690039681
+    second: UNSC_Pilot_Running_8
+  - first:
+      213: -7829336307896791603
+    second: UNSC_Pilot_Running_9
+  - first:
+      213: 1941294891994900718
+    second: UNSC_Pilot_Running_10
+  - first:
+      213: 4786692373243307766
+    second: UNSC_Pilot_Running_11
+  - first:
+      213: -6242738234855116075
+    second: UNSC_Pilot_Running_12
+  - first:
+      213: -6828053910994273360
+    second: UNSC_Pilot_Running_13
+  - first:
+      213: 523296558970586597
+    second: UNSC_Pilot_Running_14
+  - first:
+      213: 295601727556866588
+    second: UNSC_Pilot_Running_15
+  - first:
+      213: 3662233678322986770
+    second: UNSC_Pilot_Running_16
+  - first:
+      213: -8085033955985190816
+    second: UNSC_Pilot_Running_17
+  - first:
+      213: 7615268437741751279
+    second: UNSC_Pilot_Running_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 25
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1756e635e826eb0800000000000000
+      internalID: -4728060169800027666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 22
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d27b113e4eca50800000000000000
+      internalID: 6543253281436784476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 26
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fed15e7a9567e80800000000000000
+      internalID: -8181253095433572501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 34
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bc41bf665a57670800000000000000
+      internalID: 8535910530468334492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 26
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10f868371cdc60d0800000000000000
+      internalID: -3428123224047030246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 22
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed31e0b283cf6da10800000000000000
+      internalID: 1934010408172917726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 25
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9321b99debceaddd0800000000000000
+      internalID: -2460393941965794759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 28
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd4ebc0c1c985390800000000000000
+      internalID: -7829336307896791603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 7
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f62d3c3a5fbd6240800000000000000
+      internalID: 4786692373243307766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 7
+        width: 17
+        height: 37
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d236bd96a65d59a0800000000000000
+      internalID: -6242738234855116075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 7
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.465, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb38fff421ed31a0800000000000000
+      internalID: -6828053910994273360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 12
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e540a5a27f134700800000000000000
+      internalID: 523296558970586597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 8
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.517, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12d40e74303a1400800000000000000
+      internalID: 295601727556866588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 8
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fe9e8802ed2d230800000000000000
+      internalID: 3662233678322986770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 8
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060188014703ccf80800000000000000
+      internalID: -8085033955985190816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Running_18
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 8
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.444, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb47d4fb4edea960800000000000000
+      internalID: 7615268437741751279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 91848218eb7729548839129ea48a8f0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6521189705219338252
+    second: Rifledeasalto_0
+  - first:
+      213: 8273703708177295762
+    second: Rifledeasalto_1
+  - first:
+      213: 2487189953580456392
+    second: Rifledeasalto_2
+  - first:
+      213: 3384923103153128443
+    second: Rifledeasalto_3
+  - first:
+      213: 7236433282254181518
+    second: Rifledeasalto_4
+  - first:
+      213: 7857588863502160031
+    second: Rifledeasalto_5
+  - first:
+      213: -5164057635484144852
+    second: Rifledeasalto_6
+  - first:
+      213: -5744485855964504557
+    second: Rifledeasalto_7
+  - first:
+      213: -5098453639260844358
+    second: Rifledeasalto_8
+  - first:
+      213: 2147355691649224905
+    second: Rifledeasalto_9
+  - first:
+      213: 7136478259912705987
+    second: Rifledeasalto_10
+  - first:
+      213: -5135024816637968466
+    second: Rifledeasalto_11
+  - first:
+      213: -2744000821132253176
+    second: Rifledeasalto_12
+  - first:
+      213: -3277239485805791582
+    second: Rifledeasalto_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rifledeasalto_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.087779865, y: 0.303295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0078847c7bef7a50800000000000000
+      internalID: 6521189705219338252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 6
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.08558247, y: 0.30320403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2996db6cfa912d270800000000000000
+      internalID: 8273703708177295762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 7
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.09191758, y: 0.30044228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c95518c516448220800000000000000
+      internalID: 2487189953580456392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 8
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.084603146, y: 0.28977787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf38473d0a9a9fe20800000000000000
+      internalID: 3384923103153128443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.09086556, y: 0.28907487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84139ddab9fc6460800000000000000
+      internalID: 7236433282254181518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 8
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.08835102, y: 0.29819718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f909c18a073cb0d60800000000000000
+      internalID: 7857588863502160031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 8
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.087512836, y: 0.29586065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2be25dd0f49558b0800000000000000
+      internalID: -5164057635484144852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 8
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.09090029, y: 0.2962193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31edaf1bc8c7740b0800000000000000
+      internalID: -5744485855964504557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 10
+        width: 35
+        height: 13
+      alignment: 9
+      pivot: {x: 0.07274083, y: 0.49150392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe4f088d67ae39b0800000000000000
+      internalID: -5098453639260844358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 10
+        width: 47
+        height: 14
+      alignment: 9
+      pivot: {x: 0.031083776, y: 0.45325375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c05a27df90fccd10800000000000000
+      internalID: 2147355691649224905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 10
+        width: 44
+        height: 16
+      alignment: 9
+      pivot: {x: 0.057122663, y: 0.39593244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7056daa2dd90360800000000000000
+      internalID: 7136478259912705987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_11
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 6
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.09091405, y: 0.29154277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf7a73c22abcb8b0800000000000000
+      internalID: -5135024816637968466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 4
+        width: 29
+        height: 22
+      alignment: 9
+      pivot: {x: 0.08326879, y: 0.42322522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8082801aac95be9d0800000000000000
+      internalID: -2744000821132253176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledeasalto_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 6
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.091908045, y: 0.32341823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a679ac1d08e482d0800000000000000
+      internalID: -3277239485805791582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

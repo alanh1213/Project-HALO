@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 209eb67bcf228de4aaa461235245d5cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8061270883535361711
+    second: sniperReload_0
+  - first:
+      213: 7191739825752813603
+    second: sniperReload_1
+  - first:
+      213: 5917902044587061960
+    second: sniperReload_2
+  - first:
+      213: -6159786726738804660
+    second: sniperReload_3
+  - first:
+      213: 9055494840513915582
+    second: sniperReload_4
+  - first:
+      213: -3379334241211748310
+    second: sniperReload_5
+  - first:
+      213: 1429567816906513141
+    second: sniperReload_6
+  - first:
+      213: 2292087342116008090
+    second: sniperReload_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sniperReload_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 44
+        height: 28
+      alignment: 9
+      pivot: {x: 0.05993766, y: 0.250847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6135b78236fdf60800000000000000
+      internalID: 8061270883535361711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sniperReload_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 48
+        width: 45
+        height: 28
+      alignment: 9
+      pivot: {x: 0.057061512, y: 0.24576227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320b60f94413ec360800000000000000
+      internalID: 7191739825752813603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sniperReload_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 50
+        width: 44
+        height: 26
+      alignment: 9
+      pivot: {x: 0.059937563, y: 0.33572328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c27b2f1e8c902250800000000000000
+      internalID: 5917902044587061960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sniperReload_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 49
+        width: 44
+        height: 27
+      alignment: 9
+      pivot: {x: 0.05670166, y: 0.35235384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c404194ab9a048aa0800000000000000
+      internalID: -6159786726738804660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sniperReload_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 50
+        width: 43
+        height: 26
+      alignment: 9
+      pivot: {x: 0.056325868, y: 0.33024743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebae63254949bad70800000000000000
+      internalID: 9055494840513915582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sniperReload_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 9
+        width: 43
+        height: 27
+      alignment: 9
+      pivot: {x: 0.060694095, y: 0.32509124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20724f79613a11d0800000000000000
+      internalID: -3379334241211748310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sniperReload_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 7
+        width: 44
+        height: 27
+      alignment: 9
+      pivot: {x: 0.061734114, y: 0.32509097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa1b05fa58d6d310800000000000000
+      internalID: 1429567816906513141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sniperReload_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 43
+        height: 27
+      alignment: 9
+      pivot: {x: 0.06527018, y: 0.31780326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a907efc2b412fcf10800000000000000
+      internalID: 2292087342116008090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

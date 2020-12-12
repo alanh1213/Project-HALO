@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 9465ebaac1bdbb14d9d6e8b674f8e05c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2396243643340659038
+    second: Rifledebatalla_0
+  - first:
+      213: 4122852079280610139
+    second: Rifledebatalla_1
+  - first:
+      213: 178556371992431469
+    second: Rifledebatalla_2
+  - first:
+      213: -2871929541031153939
+    second: Rifledebatalla_3
+  - first:
+      213: -5131410398270378065
+    second: Rifledebatalla_4
+  - first:
+      213: -6222230628946962974
+    second: Rifledebatalla_5
+  - first:
+      213: -5152069335670353656
+    second: Rifledebatalla_6
+  - first:
+      213: 8735977785565578313
+    second: Rifledebatalla_7
+  - first:
+      213: 2115047898477674413
+    second: Rifledebatalla_8
+  - first:
+      213: -481652883871233860
+    second: Rifledebatalla_9
+  - first:
+      213: 912964871634320675
+    second: Rifledebatalla_10
+  - first:
+      213: -5604962832347980308
+    second: Rifledebatalla_11
+  - first:
+      213: -7387799103138085999
+    second: Rifledebatalla_12
+  - first:
+      213: -3027496416693509166
+    second: Rifledebatalla_13
+  - first:
+      213: -5824167990298192001
+    second: Rifledebatalla_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rifledebatalla_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.10837213, y: 0.31884626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6646b2a15debed0800000000000000
+      internalID: -2396243643340659038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.14235862, y: 0.4006583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b500f4f10573930800000000000000
+      internalID: 4122852079280610139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 15
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.1013244, y: 0.3214405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee23ee6c4bd428d0800000000000000
+      internalID: -2871929541031153939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.14098358, y: 0.39760706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf295e1e6199c8b0800000000000000
+      internalID: -5131410398270378065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 15
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.10320282, y: 0.31913236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e59f03b53236a9a0800000000000000
+      internalID: -6222230628946962974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.1459821, y: 0.40202257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8019f2d6c3c2088b0800000000000000
+      internalID: -5152069335670353656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 15
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.106616974, y: 0.31913236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9440752c28d6c3970800000000000000
+      internalID: 8735977785565578313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 12
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.15059535, y: 0.3986861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafb2bf8bd82a5d10800000000000000
+      internalID: 2115047898477674413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 14
+        width: 33
+        height: 14
+      alignment: 9
+      pivot: {x: 0.08598929, y: 0.4073545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb800d70143d059f0800000000000000
+      internalID: -481652883871233860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 15
+        width: 43
+        height: 13
+      alignment: 9
+      pivot: {x: 0.08598929, y: 0.38000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d7c22b6b08bac00800000000000000
+      internalID: 912964871634320675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 15
+        width: 43
+        height: 16
+      alignment: 9
+      pivot: {x: 0.060498614, y: 0.30440497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced91a6100c2732b0800000000000000
+      internalID: -5604962832347980308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 7
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.28596923, y: 0.9031033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1934181abd3497990800000000000000
+      internalID: -7387799103138085999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 9
+        width: 29
+        height: 23
+      alignment: 9
+      pivot: {x: 0.18331173, y: 0.8898483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d32734ac0c2cf5d0800000000000000
+      internalID: -3027496416693509166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifledebatalla_14
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 7
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.2411945, y: 0.89374757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77531212166c2fa0800000000000000
+      internalID: -5824167990298192001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

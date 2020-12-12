@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 9a4972876e180af4ead508017e32d47c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2314423682250785826
+    second: UNSC_Base_Props_SCREENS_0
+  - first:
+      213: -6222857477854619273
+    second: UNSC_Base_Props_SCREENS_1
+  - first:
+      213: 6998332468761986481
+    second: UNSC_Base_Props_SCREENS_2
+  - first:
+      213: -9109275029030408994
+    second: UNSC_Base_Props_SCREENS_3
+  - first:
+      213: -1786328282291578016
+    second: UNSC_Base_Props_SCREENS_4
+  - first:
+      213: 7991210182906305243
+    second: UNSC_Base_Props_SCREENS_5
+  - first:
+      213: 8952109686881850102
+    second: UNSC_Base_Props_SCREENS_6
+  - first:
+      213: 309400172612219941
+    second: UNSC_Base_Props_SCREENS_7
+  - first:
+      213: -4678669680074451476
+    second: UNSC_Base_Props_SCREENS_8
+  - first:
+      213: 2274978872646272953
+    second: UNSC_Base_Props_SCREENS_9
+  - first:
+      213: -1154572877576471279
+    second: UNSC_Base_Props_SCREENS_10
+  - first:
+      213: -886591106334102932
+    second: UNSC_Base_Props_SCREENS_11
+  - first:
+      213: 4660584768514821433
+    second: UNSC_Base_Props_SCREENS_12
+  - first:
+      213: 1374541877744971396
+    second: UNSC_Base_Props_SCREENS_13
+  - first:
+      213: -420605203323092277
+    second: UNSC_Base_Props_SCREENS_14
+  - first:
+      213: 1531227380752157640
+    second: UNSC_Base_Props_SCREENS_15
+  - first:
+      213: -8469987950906748477
+    second: UNSC_Base_Props_SCREENS_16
+  - first:
+      213: 3306328699806902398
+    second: UNSC_Base_Props_SCREENS_17
+  - first:
+      213: -2790270283766342765
+    second: UNSC_Base_Props_SCREENS_18
+  - first:
+      213: -2230214362553859715
+    second: UNSC_Base_Props_SCREENS_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 288
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2244f40a31c7e1020800000000000000
+      internalID: 2314423682250785826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 289
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77997901818f3a9a0800000000000000
+      internalID: -6222857477854619273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 288
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b504a43d421f1160800000000000000
+      internalID: 6998332468761986481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 230
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc6e45cf9a559180800000000000000
+      internalID: -9109275029030408994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 230
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd6c144efa537e0800000000000000
+      internalID: -1786328282291578016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 230
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda5d95725b76ee60800000000000000
+      internalID: 7991210182906305243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 230
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21de474584c3c70800000000000000
+      internalID: 8952109686881850102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 175
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524fef551d53b4400800000000000000
+      internalID: 309400172612219941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 175
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce595c1f6b6021fb0800000000000000
+      internalID: -4678669680074451476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 175
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b789973b39529f10800000000000000
+      internalID: 2274978872646272953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 175
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11df0c4c5122affe0800000000000000
+      internalID: -1154572877576471279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 120
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a6fed061232b3f0800000000000000
+      internalID: -886591106334102932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 120
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0ce47729bda040800000000000000
+      internalID: 4660584768514821433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 120
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e23ef1e8a531310800000000000000
+      internalID: 1374541877744971396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 65
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc20f39cbc5b92af0800000000000000
+      internalID: -420605203323092277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 65
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb8514a033004510800000000000000
+      internalID: 1531227380752157640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 65
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c15d56a5de847a80800000000000000
+      internalID: -8469987950906748477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 10
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e786bae4f6072ed20800000000000000
+      internalID: 3306328699806902398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_18
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 10
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b57ccd5f7f649d0800000000000000
+      internalID: -2790270283766342765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Base_Props_SCREENS_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 10
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c00b7adfac01e0800000000000000
+      internalID: -2230214362553859715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

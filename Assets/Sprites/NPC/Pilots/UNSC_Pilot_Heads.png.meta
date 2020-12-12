@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 4c6d75ecb63efc84bb1307c927ccf34b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2013579056935477791
+    second: UNSC_Pilot_Heads_0
+  - first:
+      213: 3192899929631459011
+    second: UNSC_Pilot_Heads_1
+  - first:
+      213: -5618464512197084301
+    second: UNSC_Pilot_Heads_2
+  - first:
+      213: 3634101029833807136
+    second: UNSC_Pilot_Heads_3
+  - first:
+      213: 5599163694619003359
+    second: UNSC_Pilot_Heads_4
+  - first:
+      213: -5427466127146110027
+    second: UNSC_Pilot_Heads_5
+  - first:
+      213: 5860610995479031524
+    second: UNSC_Pilot_Heads_6
+  - first:
+      213: 1356721218730151315
+    second: UNSC_Pilot_Heads_7
+  - first:
+      213: -4419773984063813665
+    second: UNSC_Pilot_Heads_8
+  - first:
+      213: 6510774681192839662
+    second: UNSC_Pilot_Heads_9
+  - first:
+      213: -5695220709941015491
+    second: UNSC_Pilot_Heads_10
+  - first:
+      213: 8709843330637348010
+    second: UNSC_Pilot_Heads_11
+  - first:
+      213: 5132992171156195400
+    second: UNSC_Pilot_Heads_12
+  - first:
+      213: 1889147483762826666
+    second: UNSC_Pilot_Heads_13
+  - first:
+      213: 6661359770995330843
+    second: UNSC_Pilot_Heads_14
+  - first:
+      213: 5627323908460267123
+    second: UNSC_Pilot_Heads_15
+  - first:
+      213: 2469823172867631413
+    second: UNSC_Pilot_Heads_16
+  - first:
+      213: -6165756432793767591
+    second: UNSC_Pilot_Heads_17
+  - first:
+      213: 3436601801465383982
+    second: UNSC_Pilot_Heads_18
+  - first:
+      213: -3359665633042443276
+    second: UNSC_Pilot_Heads_19
+  - first:
+      213: -878939726671902184
+    second: UNSC_Pilot_Heads_20
+  - first:
+      213: -9124346688077720323
+    second: UNSC_Pilot_Heads_21
+  - first:
+      213: -6631755078247229101
+    second: UNSC_Pilot_Heads_22
+  - first:
+      213: 6065504633389384810
+    second: UNSC_Pilot_Heads_23
+  - first:
+      213: 6248463040870688239
+    second: UNSC_Pilot_Heads_24
+  - first:
+      213: -3794924276256795586
+    second: UNSC_Pilot_Heads_25
+  - first:
+      213: 898960191795670547
+    second: UNSC_Pilot_Heads_26
+  - first:
+      213: -4169259740526178483
+    second: UNSC_Pilot_Heads_27
+  - first:
+      213: -6809259764765460352
+    second: UNSC_Pilot_Heads_28
+  - first:
+      213: -782972531177120608
+    second: UNSC_Pilot_Heads_29
+  - first:
+      213: -4252528826437855606
+    second: UNSC_Pilot_Heads_30
+  - first:
+      213: -8212658483260635248
+    second: UNSC_Pilot_Heads_31
+  - first:
+      213: -7761129481531917877
+    second: UNSC_Pilot_Heads_32
+  - first:
+      213: -8534271111527426063
+    second: UNSC_Pilot_Heads_33
+  - first:
+      213: -1906439627466875232
+    second: UNSC_Pilot_Heads_34
+  - first:
+      213: -1174810342547866903
+    second: UNSC_Pilot_Heads_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 21
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f122ecfdb7ba1fb10800000000000000
+      internalID: 2013579056935477791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 21
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c68d0db1957f4c20800000000000000
+      internalID: 3192899929631459011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 27
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bba574b443702b0800000000000000
+      internalID: -5618464512197084301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 27
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0251021e1abee6230800000000000000
+      internalID: 3634101029833807136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 27
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd98701f6b934bd40800000000000000
+      internalID: 5599163694619003359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 27
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3bdf43054cda4b0800000000000000
+      internalID: -5427466127146110027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 27
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eea64846a2155150800000000000000
+      internalID: 5860610995479031524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 27
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d45ad92ca04d210800000000000000
+      internalID: 1356721218730151315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd70d5c7afec9a2c0800000000000000
+      internalID: -4419773984063813665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee93b15b31bea5a50800000000000000
+      internalID: 6510774681192839662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c848a50f286f0b0800000000000000
+      internalID: -5695220709941015491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacb1fbcc549fd870800000000000000
+      internalID: 8709843330637348010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84840a41f2d0c3740800000000000000
+      internalID: 5132992171156195400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad910a90a9973a10800000000000000
+      internalID: 1889147483762826666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 15
+        width: 7
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f01471b67e17c50800000000000000
+      internalID: 6661359770995330843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37646d7a745481e40800000000000000
+      internalID: 5627323908460267123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539adcc0713964220800000000000000
+      internalID: 2469823172867631413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9517fb32135de6aa0800000000000000
+      internalID: -6165756432793767591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ccfca612341bf20800000000000000
+      internalID: 3436601801465383982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3da6238e11061d0800000000000000
+      internalID: -3359665633042443276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0eb4b9f06dc3f0800000000000000
+      internalID: -878939726671902184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df49d91b70fcf5180800000000000000
+      internalID: -9124346688077720323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3595ea394e547f3a0800000000000000
+      internalID: -6631755078247229101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6409a0e3500d2450800000000000000
+      internalID: 6065504633389384810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe52147a70007b650800000000000000
+      internalID: 6248463040870688239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3415342a78b55bc0800000000000000
+      internalID: -3794924276256795586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ea233188fb97c00800000000000000
+      internalID: 898960191795670547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f899d0b50d326c0800000000000000
+      internalID: -4169259740526178483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_28
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887bc92256a081a0800000000000000
+      internalID: -6809259764765460352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac9c4a91a25225f0800000000000000
+      internalID: -782972531177120608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86101f209bfbf4c0800000000000000
+      internalID: -4252528826437855606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c6ab3f96c60e80800000000000000
+      internalID: -8212658483260635248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97a755bddea4490800000000000000
+      internalID: -7761129481531917877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7978cf3ad209980800000000000000
+      internalID: -8534271111527426063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aedb137247fa85e0800000000000000
+      internalID: -1906439627466875232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNSC_Pilot_Heads_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eabaf5c73c32bfe0800000000000000
+      internalID: -1174810342547866903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
