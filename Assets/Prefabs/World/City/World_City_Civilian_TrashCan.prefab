@@ -46,6 +46,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -92,6 +93,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4563344636125816055}
   - component: {fileID: 4563344636125816052}
+  - component: {fileID: 7059680378694637687}
   m_Layer: 0
   m_Name: World_City_Civilian_TrashCan
   m_TagString: Untagged
@@ -129,6 +131,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -165,3 +168,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &7059680378694637687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4563344636125816053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0d04ba84c79124b92f6014165dc44a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offSetSombra: 2.2
+  horaDeSol: -0.4
