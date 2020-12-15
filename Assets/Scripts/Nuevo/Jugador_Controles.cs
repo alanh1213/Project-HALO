@@ -31,6 +31,11 @@ public class Jugador_Controles : MonoBehaviour
             //jugador_Arma.Invoke("ResetearPosicion", 1.5f);
             //jugador_Cabeza.Invoke("ResetearPosicion", 1.5f);
         }
+
+        //-------------------------------------------------------------------------------------------------------------------------------------
+        //-------------------------------------------------------------------------------------------------------------------------------------
+
+        
     }
     private const string CONTROLES_HALOCE = "Controles Halo CE";
 }
