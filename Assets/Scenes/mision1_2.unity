@@ -5540,7 +5540,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1512731505}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.5, y: -3.32, z: -1}
+  m_LocalPosition: {x: -5.5, y: -3.32, z: -2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2125244189}
@@ -5560,7 +5560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objetivo: {fileID: 892938137}
-  offSet: {x: 10, y: 0, z: -1}
+  offSet: {x: 10, y: 0, z: -2}
   velocidadMovimiento: 2
   cinemaMode: 0
 --- !u!61 &1512731510
@@ -7666,7 +7666,7 @@ PrefabInstance:
     - target: {fileID: 4563344636125816052, guid: a10e21900a2267041afac9def2b56275,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4563344636125816052, guid: a10e21900a2267041afac9def2b56275,
         type: 3}
@@ -7823,7 +7823,7 @@ PrefabInstance:
     - target: {fileID: 4563344636125816052, guid: a10e21900a2267041afac9def2b56275,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4563344636125816052, guid: a10e21900a2267041afac9def2b56275,
         type: 3}

@@ -40,8 +40,12 @@ public class Auto_Civil : MonoBehaviour, IDamagable
         }
         else if(vida <= 0 && !exploto)
         {
-            Instantiate(explosionPrefab, transform.position, Quaternion.identity);
-            Instantiate(fuegoPrefab, transform.position, Quaternion.identity);
+            GameObject explosion = Instantiate(explosionPrefab, transform.position, Quaternion.identity);
+            explosion.GetComponent<SpriteRenderer>().sortingOrder = GetComponent<SpriteRenderer>().sortingOrder;
+            
+            GameObject fuego = Instantiate(fuegoPrefab, transform.position, Quaternion.identity);
+            fuego.GetComponent<SpriteRenderer>().sortingOrder = GetComponent<SpriteRenderer>().sortingOrder;
+            fuego.transform.position = new Vector3(fuego.transform.position.x, fuego.transform.position.y, fuego.transform.position.z - 1);
             CambiarEstadoAnimacion(AUTO_DAÑO_DESTRUIDO);
             exploto = true;
         }
