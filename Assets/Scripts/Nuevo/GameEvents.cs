@@ -13,6 +13,7 @@ public class GameEvents : MonoBehaviour
 
     public event Action enModoCinemaActivado;
     public event Action enModoCinemaDesactivado;
+    public event Action enModoPausa;
 
     public void ModoCinemaActivado()
     {
@@ -27,6 +28,15 @@ public class GameEvents : MonoBehaviour
         if(enModoCinemaActivado != null)
         {
             enModoCinemaDesactivado();
+        }
+    }
+
+    public void ModoPausa()
+    {
+        if(enModoPausa != null)
+        {
+            enModoPausa();
+            Debug.Log("PAUSA");
         }
     }
 }

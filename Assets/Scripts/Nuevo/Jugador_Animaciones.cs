@@ -56,6 +56,8 @@ public class Jugador_Animaciones : MonoBehaviour
         estadoActual = nuevoEstado;
     }
 
+    
+
     private const string IDLE = "IDLE";
     private const string MOVING = "MOVING";
     private const string MOVING_ATRAS = "MOVING_ATRAS";

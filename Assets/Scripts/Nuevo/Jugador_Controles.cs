@@ -35,7 +35,10 @@ public class Jugador_Controles : MonoBehaviour
         //-------------------------------------------------------------------------------------------------------------------------------------
         //-------------------------------------------------------------------------------------------------------------------------------------
 
-        
+        if(Input.GetKeyDown(KeyCode.Escape))
+        {
+            GameEvents.current.ModoPausa();
+        }
     }
     private const string CONTROLES_HALOCE = "Controles Halo CE";
 }

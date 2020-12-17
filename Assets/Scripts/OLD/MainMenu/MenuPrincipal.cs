@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class MenuPrincipal : MonoBehaviour
 {
@@ -67,6 +68,8 @@ public class MenuPrincipal : MonoBehaviour
         protectorDePantallaGO.SetActive(false);
         menuPrincipalGO.SetActive(true);
     }
+
+    
 }
 
 

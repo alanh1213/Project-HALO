@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 
 public class Boton : MonoBehaviour
 {   
@@ -22,6 +23,16 @@ public class Boton : MonoBehaviour
     public void CerrarAplicacion()
     {
         Application.Quit();
+    }
+
+    public void IniciarPartida()
+    {
+        SceneManager.LoadSceneAsync("mision1_2");
+    }
+
+    public void Pausa()
+    {
+        GameEvents.current.ModoPausa();
     }
     
 }
