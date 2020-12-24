@@ -44,7 +44,7 @@ public class Jugador_Arma : MonoBehaviour
     
     
 
-    private void CambiarEstadoArma(string nuevoEstado)
+    public void CambiarEstadoArma(string nuevoEstado)
     {
         if(estadoActual == nuevoEstado) return;
 

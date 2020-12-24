@@ -39,6 +39,11 @@ public class Jugador_Controles : MonoBehaviour
         {
             GameEvents.current.ModoPausa();
         }
+
+        if(Input.GetKeyDown(KeyCode.R))
+        {
+            jugador_Arma.CambiarEstadoArma("RELOAD");
+        }
     }
     private const string CONTROLES_HALOCE = "Controles Halo CE";
 }
