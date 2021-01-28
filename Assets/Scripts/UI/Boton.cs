@@ -34,5 +34,10 @@ public class Boton : MonoBehaviour
     {
         GameEvents.current.ModoPausa();
     }
+
+    public void VolverAlMenuPrincipal()
+    {
+        SceneManager.LoadSceneAsync(0);
+    }
     
 }
