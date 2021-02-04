@@ -11,10 +11,12 @@ GameObject:
   - component: {fileID: 1585184539130403816}
   - component: {fileID: 1585184539130403817}
   - component: {fileID: 1585184539130403818}
-  - component: {fileID: 1585184539130403821}
   - component: {fileID: 1585184539130403822}
   - component: {fileID: 1585184539130403823}
   - component: {fileID: 378508833}
+  - component: {fileID: -4916772233841032508}
+  - component: {fileID: 3081790514153687745}
+  - component: {fileID: 5406710329708842970}
   m_Layer: 0
   m_Name: BalasdeRifledeAsalto
   m_TagString: Bullet
@@ -51,6 +53,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -72,8 +75,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1300660641
-  m_SortingLayer: 4
+  m_SortingLayerID: -996201741
+  m_SortingLayer: 2
   m_SortingOrder: 5
   m_Sprite: {fileID: 8911255126420573725, guid: 6a7d24baa44bb2b44bfb6790e6c8a419,
     type: 3}
@@ -106,31 +109,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1585184539130403821
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1585184539130403819}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 62fbcaa0ecf28254a999d9a9488cdafc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  damage: 75
-  speed: 300
-  rocket: 0
-  assaultRifle: 1
-  SMG: 0
-  explosionPrefab: {fileID: 0}
-  assaultRifleENDPrefab: {fileID: 9179110796358835443, guid: dd15a66ecb0f7ee42b54f678c5c19034,
-    type: 3}
-  assaultRifleENDUnggoyPrefab: {fileID: 1553117160533109969, guid: a3d625a5beee3cb44b1e305e6120c2ae,
-    type: 3}
-  SMGENDPrefab: {fileID: 0}
-  blueBlood: {fileID: 4493655729222075465, guid: 4cdcc92fd2dae174ab2a76997c69fd02,
-    type: 3}
 --- !u!50 &1585184539130403822
 Rigidbody2D:
   serializedVersion: 4
@@ -194,6 +172,7 @@ TrailRenderer:
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -284,3 +263,43 @@ TrailRenderer:
   m_MinVertexDistance: 0.1
   m_Autodestruct: 0
   m_Emitting: 1
+--- !u!114 &-4916772233841032508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585184539130403819}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16cc485b27b2bdb43bdc6203a3c3fe2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentSpriteRendererGO: {fileID: 0}
+  es_Brazo: 0
+--- !u!114 &3081790514153687745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585184539130403819}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f7590754c6ef034a8dc991bac08fcbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 10
+  velocityVector: {x: 0, y: 0, z: 0}
+--- !u!114 &5406710329708842970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585184539130403819}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b034e6fdbea970642b650dea5152f4b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
