@@ -9,17 +9,22 @@ public class Jugador_Arma : MonoBehaviour
     Animator armaAnimator;
     string estadoActual;
     public string armaEquipada = "AR";
+    [SerializeField] GameObject[] listaDisparos = new GameObject[6];
+    [SerializeField] private float fireRate;
+    private float fireRateTime;
+    private Transform firePoint;
 
     void Awake()
     {
         armaAnimator = transform.Find("ArmaGFX").GetComponent<Animator>();
+        firePoint = gameObject.transform.Find("FirePoint").transform;
     }
 
-    void Update()
+    
+    private void Update()
     {
-        
+        fireRateTime -= Time.deltaTime;
     }
-
     
     public void ApuntarAlMouse()
     {
@@ -36,9 +41,20 @@ public class Jugador_Arma : MonoBehaviour
         if(Input.GetKey(KeyCode.Mouse0))
         {
             CambiarEstadoArma("SHOT");
+            InstanciarDisparo();
         }else
         {
             CambiarEstadoArma("IDLE");
+        }
+    }
+
+    void InstanciarDisparo()
+    {
+        if(fireRateTime <= 0)
+        {
+            GameObject disparo = Instantiate(listaDisparos[0], firePoint.position, transform.rotation);
+            disparo.GetComponent<Balas_Controller>();
+            fireRateTime = fireRate;
         }
     }
     

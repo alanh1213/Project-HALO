@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 9179110796358835447}
   - component: {fileID: 9179110796358835444}
   - component: {fileID: 9179110796358835445}
-  - component: {fileID: 9179110796358835442}
+  - component: {fileID: 3398109067619220585}
   m_Layer: 0
   m_Name: fireAssaultRifleEND
   m_TagString: Untagged
@@ -48,6 +48,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -70,7 +71,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -340552569
-  m_SortingLayer: 7
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 6604140886980816518, guid: 019e55f5a7abefc44830ad7b3d2ae978,
     type: 3}
@@ -78,7 +79,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.9, y: 0.5}
+  m_Size: {x: 1.3, y: 0.9}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -103,7 +104,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &9179110796358835442
+--- !u!114 &3398109067619220585
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -112,7 +113,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 9179110796358835443}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a9091c38feaf8234090981b62f269e42, type: 3}
+  m_Script: {fileID: 11500000, guid: bef5fb349f7f7a54ba68aff9601e6bd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempo: 0.3
+  tiempo: 5

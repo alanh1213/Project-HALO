@@ -488,7 +488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16cc485b27b2bdb43bdc6203a3c3fe2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentSpriteRendererGO: {fileID: 0}
+  parentSpriteRendererGO: {fileID: 129474956}
   es_Brazo: 0
 --- !u!114 &129474958
 MonoBehaviour:
@@ -1006,6 +1006,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8407465761918134480, guid: 7da68e0bb89d8244eb64876adbdc9470,
+        type: 3}
+      propertyPath: parentSpriteRendererGO
+      value: 
+      objectReference: {fileID: 1996753658}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7da68e0bb89d8244eb64876adbdc9470, type: 3}
 --- !u!1 &213982609
@@ -5168,18 +5173,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1198262388, guid: 0934546d68d7fa14196a3229b210ef1a, type: 3}
-      propertyPath: parentSpriteRendererGO
-      value: 
-      objectReference: {fileID: 1191610429}
-    - target: {fileID: 1576227664, guid: 0934546d68d7fa14196a3229b210ef1a, type: 3}
-      propertyPath: parentSpriteRendererGO
-      value: 
-      objectReference: {fileID: 1191610429}
-    - target: {fileID: 2856105952638318679, guid: 0934546d68d7fa14196a3229b210ef1a,
+    - target: {fileID: 2050937637603728533, guid: 0934546d68d7fa14196a3229b210ef1a,
         type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1
+      propertyPath: m_Name
+      value: FirePoint
       objectReference: {fileID: 0}
     - target: {fileID: 3095301534771293073, guid: 0934546d68d7fa14196a3229b210ef1a,
         type: 3}
@@ -5240,16 +5237,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095301534771293086, guid: 0934546d68d7fa14196a3229b210ef1a,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 2.1036367
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095301534771293086, guid: 0934546d68d7fa14196a3229b210ef1a,
-        type: 3}
-      propertyPath: m_Offset.y
-      value: 0.1618185
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0934546d68d7fa14196a3229b210ef1a, type: 3}
@@ -5780,7 +5767,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16cc485b27b2bdb43bdc6203a3c3fe2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentSpriteRendererGO: {fileID: 0}
+  parentSpriteRendererGO: {fileID: 979056701}
   es_Brazo: 0
 --- !u!1001 &1007419772
 PrefabInstance:
@@ -6355,12 +6342,6 @@ Transform:
   m_Father: {fileID: 1380788121}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1191610429 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3095301536062776778, guid: 0934546d68d7fa14196a3229b210ef1a,
-    type: 3}
-  m_PrefabInstance: {fileID: 953720990}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1217171159
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7079,6 +7060,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2938261737695442678, guid: cc72f896cd0a74c4283b8b0e948049b6,
     type: 3}
   m_PrefabInstance: {fileID: 501909573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1520772843 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3090107382337057505, guid: 7da68e0bb89d8244eb64876adbdc9470,
+    type: 3}
+  m_PrefabInstance: {fileID: 1670899415}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1546108494
 PrefabInstance:
@@ -8027,6 +8014,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8407465761918134480, guid: 7da68e0bb89d8244eb64876adbdc9470,
+        type: 3}
+      propertyPath: parentSpriteRendererGO
+      value: 
+      objectReference: {fileID: 1520772843}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7da68e0bb89d8244eb64876adbdc9470, type: 3}
 --- !u!1001 &1671433185
@@ -8311,7 +8303,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16cc485b27b2bdb43bdc6203a3c3fe2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentSpriteRendererGO: {fileID: 0}
+  parentSpriteRendererGO: {fileID: 1703702584}
   es_Brazo: 0
 --- !u!114 &1703702586
 MonoBehaviour:
@@ -9664,6 +9656,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8231059728840905617, guid: 77bc5871b8e8a5e47a182ba826e2cf59,
     type: 3}
   m_PrefabInstance: {fileID: 225324800}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1996753658 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3090107382337057505, guid: 7da68e0bb89d8244eb64876adbdc9470,
+    type: 3}
+  m_PrefabInstance: {fileID: 201955699}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &2008936117
 GameObject:

@@ -17,7 +17,7 @@ public class Sprite_Layer : MonoBehaviour
 
     private void Start()
     {
-        parent_Sprite_Renderer = parentSpriteRendererGO.GetComponent<SpriteRenderer>();
+        if(es_Brazo)parent_Sprite_Renderer = parentSpriteRendererGO.GetComponent<SpriteRenderer>();
     }
     private void Update()
     {
