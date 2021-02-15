@@ -2,17 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Jugador : MonoBehaviour
+public class Jugador : MonoBehaviour, IDamagable
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] private float vidaJugador = 100f;
+    public void TakeDamage(int daño)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        vidaJugador -= daño;
     }
 }

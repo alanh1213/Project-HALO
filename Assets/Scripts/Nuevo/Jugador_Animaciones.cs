@@ -7,6 +7,7 @@ public class Jugador_Animaciones : MonoBehaviour
     private bool personajeInvertido = false;
     private string estadoActual;
     Animator torsoAnimator, cabezaAnimator;
+    Jugador_Visor jugador_Visor;
     Move_RB2D move_RB2D;
     
     void Awake()
@@ -15,6 +16,7 @@ public class Jugador_Animaciones : MonoBehaviour
         torsoAnimator = gameObject.transform.Find("TorsoGFX").GetComponent<Animator>();
         cabezaAnimator = gameObject.transform.Find("Cabeza").transform.Find("CabezaGFX").GetComponent<Animator>();
         estadoActual = IDLE;
+        jugador_Visor = gameObject.transform.Find("Cabeza").transform.Find("CabezaGFX").transform.Find("Visor").GetComponent<Jugador_Visor>();
     }
 
     public void Update()
@@ -44,6 +46,12 @@ public class Jugador_Animaciones : MonoBehaviour
         {
             CambiarEstadoAnimacion(IDLE);
         }
+    }
+
+    public void ActivarDesactivarVisor()
+    {
+        if(jugador_Visor.estadoActual == "ON")jugador_Visor.ActivarDesactivarVisor("OFF");
+        else if(jugador_Visor.estadoActual == "OFF") jugador_Visor.ActivarDesactivarVisor("ON");
     }
 
     private void CambiarEstadoAnimacion(string nuevoEstado)

@@ -7,11 +7,13 @@ public class Jugador_Controles : MonoBehaviour
     Move_RB2D move_RB2D;
     Jugador_Arma jugador_Arma;
     Jugador_Cabeza jugador_Cabeza;
+    Jugador_Animaciones jugador_Animaciones;
     private void Awake()
     {
         move_RB2D = GetComponent<Move_RB2D>();
         jugador_Arma = gameObject.transform.Find("Arma").GetComponent<Jugador_Arma>();
         jugador_Cabeza = gameObject.transform.Find("Cabeza").GetComponent<Jugador_Cabeza>();
+        jugador_Animaciones = GetComponent<Jugador_Animaciones>();
     }
     private void Update()
     {
@@ -44,6 +46,16 @@ public class Jugador_Controles : MonoBehaviour
         {
             jugador_Arma.CambiarEstadoArma("RELOAD");
         }
+
+        //-------------------------------------------------------------------------------------------------------------------------------------
+        //-------------------------------------------------------------------------------------------------------------------------------------
+
+        if(Input.GetKeyDown(KeyCode.Q))
+        {
+            jugador_Animaciones.ActivarDesactivarVisor();
+        }
+
+        
     }
     private const string CONTROLES_HALOCE = "Controles Halo CE";
 }
