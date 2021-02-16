@@ -53,7 +53,7 @@ public class Jugador_Arma : MonoBehaviour
         if(fireRateTime <= 0)
         {
             GameObject disparo = Instantiate(listaDisparos[0], firePoint.position, transform.rotation);
-            disparo.GetComponent<Balas_Controller>();
+            disparo.GetComponent<Move_RB2D>().SetVelocity(transform.right);
             fireRateTime = fireRate;
         }
     }

@@ -528,6 +528,7 @@ GameObject:
   - component: {fileID: 2938261737695442681}
   - component: {fileID: 2938261737695442680}
   - component: {fileID: 7879258722992097072}
+  - component: {fileID: 1007419774}
   m_Layer: 8
   m_Name: Rebel1_Light
   m_TagString: Rebel
@@ -544,7 +545,7 @@ Transform:
   m_GameObject: {fileID: 2938261737695442687}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -67.15, y: -18, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children:
   - {fileID: 2938261738630442755}
   - {fileID: 20870716}
@@ -684,6 +685,26 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.91, y: 1.8567924}
   m_EdgeRadius: 0
+--- !u!114 &1007419774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2938261737695442687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a334f175d3e46d0488a7dc9636ff631a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  whatIsEnemy:
+    serializedVersion: 2
+    m_Bits: 1024
+  vida: 150
+  rangoDeteccion: 25
+  fireRate: 1
+  disparoGO: {fileID: 1585184539130403819, guid: dd690eafb17f88c4684bcf5b72e5146e,
+    type: 3}
 --- !u!1 &2938261738630442754
 GameObject:
   m_ObjectHideFlags: 0
@@ -693,6 +714,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2938261738630442755}
+  - component: {fileID: 1438639255}
   m_Layer: 0
   m_Name: Weapon
   m_TagString: Untagged
@@ -717,3 +739,15 @@ Transform:
   m_Father: {fileID: 2938261737695442678}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1438639255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2938261738630442754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c6f49a827f3756498511faa4d3d10b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
